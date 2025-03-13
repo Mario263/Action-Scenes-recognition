@@ -1,0 +1,5828 @@
+{
+    "sequences": [
+        {
+            "sequence_id": 1,
+            "start_frame": 0,
+            "end_frame": 40,
+            "start_time": 0.0,
+            "end_time": 0.6666666666666666,
+            "duration": 0.6666666666666666
+        },
+        {
+            "sequence_id": 2,
+            "start_frame": 40,
+            "end_frame": 923,
+            "start_time": 0.6666666666666666,
+            "end_time": 15.383333333333333,
+            "duration": 14.716666666666667
+        },
+        {
+            "sequence_id": 3,
+            "start_frame": 923,
+            "end_frame": 5412,
+            "start_time": 15.383333333333333,
+            "end_time": 90.2,
+            "duration": 74.81666666666666
+        },
+        {
+            "sequence_id": 4,
+            "start_frame": 5412,
+            "end_frame": 5938,
+            "start_time": 90.2,
+            "end_time": 98.96666666666667,
+            "duration": 8.766666666666667
+        },
+        {
+            "sequence_id": 5,
+            "start_frame": 5938,
+            "end_frame": 5995,
+            "start_time": 98.96666666666667,
+            "end_time": 99.91666666666667,
+            "duration": 0.95
+        },
+        {
+            "sequence_id": 6,
+            "start_frame": 5995,
+            "end_frame": 6128,
+            "start_time": 99.91666666666667,
+            "end_time": 102.13333333333334,
+            "duration": 2.216666666666667
+        },
+        {
+            "sequence_id": 7,
+            "start_frame": 6128,
+            "end_frame": 6284,
+            "start_time": 102.13333333333334,
+            "end_time": 104.73333333333333,
+            "duration": 2.6
+        },
+        {
+            "sequence_id": 8,
+            "start_frame": 6284,
+            "end_frame": 6301,
+            "start_time": 104.73333333333333,
+            "end_time": 105.01666666666667,
+            "duration": 0.2833333333333333
+        },
+        {
+            "sequence_id": 9,
+            "start_frame": 6301,
+            "end_frame": 6316,
+            "start_time": 105.01666666666667,
+            "end_time": 105.26666666666667,
+            "duration": 0.25
+        },
+        {
+            "sequence_id": 10,
+            "start_frame": 6316,
+            "end_frame": 6334,
+            "start_time": 105.26666666666667,
+            "end_time": 105.56666666666666,
+            "duration": 0.3
+        },
+        {
+            "sequence_id": 11,
+            "start_frame": 6334,
+            "end_frame": 6972,
+            "start_time": 105.56666666666666,
+            "end_time": 116.2,
+            "duration": 10.633333333333333
+        },
+        {
+            "sequence_id": 12,
+            "start_frame": 6972,
+            "end_frame": 7052,
+            "start_time": 116.2,
+            "end_time": 117.53333333333333,
+            "duration": 1.3333333333333333
+        },
+        {
+            "sequence_id": 13,
+            "start_frame": 7052,
+            "end_frame": 7139,
+            "start_time": 117.53333333333333,
+            "end_time": 118.98333333333333,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 14,
+            "start_frame": 7139,
+            "end_frame": 7305,
+            "start_time": 118.98333333333333,
+            "end_time": 121.75,
+            "duration": 2.7666666666666666
+        },
+        {
+            "sequence_id": 15,
+            "start_frame": 7305,
+            "end_frame": 7793,
+            "start_time": 121.75,
+            "end_time": 129.88333333333333,
+            "duration": 8.133333333333333
+        },
+        {
+            "sequence_id": 16,
+            "start_frame": 7793,
+            "end_frame": 8546,
+            "start_time": 129.88333333333333,
+            "end_time": 142.43333333333334,
+            "duration": 12.55
+        },
+        {
+            "sequence_id": 17,
+            "start_frame": 8546,
+            "end_frame": 12042,
+            "start_time": 142.43333333333334,
+            "end_time": 200.7,
+            "duration": 58.266666666666666
+        },
+        {
+            "sequence_id": 18,
+            "start_frame": 12042,
+            "end_frame": 12103,
+            "start_time": 200.7,
+            "end_time": 201.71666666666667,
+            "duration": 1.0166666666666666
+        },
+        {
+            "sequence_id": 19,
+            "start_frame": 12103,
+            "end_frame": 12249,
+            "start_time": 201.71666666666667,
+            "end_time": 204.15,
+            "duration": 2.433333333333333
+        },
+        {
+            "sequence_id": 20,
+            "start_frame": 12249,
+            "end_frame": 12939,
+            "start_time": 204.15,
+            "end_time": 215.65,
+            "duration": 11.5
+        },
+        {
+            "sequence_id": 21,
+            "start_frame": 12939,
+            "end_frame": 13481,
+            "start_time": 215.65,
+            "end_time": 224.68333333333334,
+            "duration": 9.033333333333333
+        },
+        {
+            "sequence_id": 22,
+            "start_frame": 13481,
+            "end_frame": 14854,
+            "start_time": 224.68333333333334,
+            "end_time": 247.56666666666666,
+            "duration": 22.883333333333333
+        },
+        {
+            "sequence_id": 23,
+            "start_frame": 14854,
+            "end_frame": 16972,
+            "start_time": 247.56666666666666,
+            "end_time": 282.8666666666667,
+            "duration": 35.3
+        },
+        {
+            "sequence_id": 24,
+            "start_frame": 16972,
+            "end_frame": 17192,
+            "start_time": 282.8666666666667,
+            "end_time": 286.53333333333336,
+            "duration": 3.6666666666666665
+        },
+        {
+            "sequence_id": 25,
+            "start_frame": 17192,
+            "end_frame": 17221,
+            "start_time": 286.53333333333336,
+            "end_time": 287.01666666666665,
+            "duration": 0.48333333333333334
+        },
+        {
+            "sequence_id": 26,
+            "start_frame": 17221,
+            "end_frame": 17328,
+            "start_time": 287.01666666666665,
+            "end_time": 288.8,
+            "duration": 1.7833333333333334
+        },
+        {
+            "sequence_id": 27,
+            "start_frame": 17328,
+            "end_frame": 19777,
+            "start_time": 288.8,
+            "end_time": 329.6166666666667,
+            "duration": 40.81666666666667
+        },
+        {
+            "sequence_id": 28,
+            "start_frame": 19777,
+            "end_frame": 20325,
+            "start_time": 329.6166666666667,
+            "end_time": 338.75,
+            "duration": 9.133333333333333
+        },
+        {
+            "sequence_id": 29,
+            "start_frame": 20325,
+            "end_frame": 20611,
+            "start_time": 338.75,
+            "end_time": 343.51666666666665,
+            "duration": 4.766666666666667
+        },
+        {
+            "sequence_id": 30,
+            "start_frame": 20611,
+            "end_frame": 20930,
+            "start_time": 343.51666666666665,
+            "end_time": 348.8333333333333,
+            "duration": 5.316666666666666
+        },
+        {
+            "sequence_id": 31,
+            "start_frame": 20930,
+            "end_frame": 21737,
+            "start_time": 348.8333333333333,
+            "end_time": 362.28333333333336,
+            "duration": 13.45
+        },
+        {
+            "sequence_id": 32,
+            "start_frame": 21737,
+            "end_frame": 22008,
+            "start_time": 362.28333333333336,
+            "end_time": 366.8,
+            "duration": 4.516666666666667
+        },
+        {
+            "sequence_id": 33,
+            "start_frame": 22008,
+            "end_frame": 22796,
+            "start_time": 366.8,
+            "end_time": 379.93333333333334,
+            "duration": 13.133333333333333
+        },
+        {
+            "sequence_id": 34,
+            "start_frame": 22796,
+            "end_frame": 22940,
+            "start_time": 379.93333333333334,
+            "end_time": 382.3333333333333,
+            "duration": 2.4
+        },
+        {
+            "sequence_id": 35,
+            "start_frame": 22940,
+            "end_frame": 23442,
+            "start_time": 382.3333333333333,
+            "end_time": 390.7,
+            "duration": 8.366666666666667
+        },
+        {
+            "sequence_id": 36,
+            "start_frame": 23442,
+            "end_frame": 24051,
+            "start_time": 390.7,
+            "end_time": 400.85,
+            "duration": 10.15
+        },
+        {
+            "sequence_id": 37,
+            "start_frame": 24051,
+            "end_frame": 24610,
+            "start_time": 400.85,
+            "end_time": 410.1666666666667,
+            "duration": 9.316666666666666
+        },
+        {
+            "sequence_id": 38,
+            "start_frame": 24610,
+            "end_frame": 25206,
+            "start_time": 410.1666666666667,
+            "end_time": 420.1,
+            "duration": 9.933333333333334
+        },
+        {
+            "sequence_id": 39,
+            "start_frame": 25206,
+            "end_frame": 26412,
+            "start_time": 420.1,
+            "end_time": 440.2,
+            "duration": 20.1
+        },
+        {
+            "sequence_id": 40,
+            "start_frame": 26412,
+            "end_frame": 26812,
+            "start_time": 440.2,
+            "end_time": 446.8666666666667,
+            "duration": 6.666666666666667
+        },
+        {
+            "sequence_id": 41,
+            "start_frame": 26812,
+            "end_frame": 29090,
+            "start_time": 446.8666666666667,
+            "end_time": 484.8333333333333,
+            "duration": 37.96666666666667
+        },
+        {
+            "sequence_id": 42,
+            "start_frame": 29090,
+            "end_frame": 29249,
+            "start_time": 484.8333333333333,
+            "end_time": 487.48333333333335,
+            "duration": 2.65
+        },
+        {
+            "sequence_id": 43,
+            "start_frame": 29249,
+            "end_frame": 29471,
+            "start_time": 487.48333333333335,
+            "end_time": 491.18333333333334,
+            "duration": 3.7
+        },
+        {
+            "sequence_id": 44,
+            "start_frame": 29471,
+            "end_frame": 29681,
+            "start_time": 491.18333333333334,
+            "end_time": 494.68333333333334,
+            "duration": 3.5
+        },
+        {
+            "sequence_id": 45,
+            "start_frame": 29681,
+            "end_frame": 30467,
+            "start_time": 494.68333333333334,
+            "end_time": 507.78333333333336,
+            "duration": 13.1
+        },
+        {
+            "sequence_id": 46,
+            "start_frame": 30467,
+            "end_frame": 30706,
+            "start_time": 507.78333333333336,
+            "end_time": 511.76666666666665,
+            "duration": 3.9833333333333334
+        },
+        {
+            "sequence_id": 47,
+            "start_frame": 30706,
+            "end_frame": 31024,
+            "start_time": 511.76666666666665,
+            "end_time": 517.0666666666667,
+            "duration": 5.3
+        },
+        {
+            "sequence_id": 48,
+            "start_frame": 31024,
+            "end_frame": 31415,
+            "start_time": 517.0666666666667,
+            "end_time": 523.5833333333334,
+            "duration": 6.516666666666667
+        },
+        {
+            "sequence_id": 49,
+            "start_frame": 31415,
+            "end_frame": 31525,
+            "start_time": 523.5833333333334,
+            "end_time": 525.4166666666666,
+            "duration": 1.8333333333333333
+        },
+        {
+            "sequence_id": 50,
+            "start_frame": 31525,
+            "end_frame": 32431,
+            "start_time": 525.4166666666666,
+            "end_time": 540.5166666666667,
+            "duration": 15.1
+        },
+        {
+            "sequence_id": 51,
+            "start_frame": 32431,
+            "end_frame": 33604,
+            "start_time": 540.5166666666667,
+            "end_time": 560.0666666666667,
+            "duration": 19.55
+        },
+        {
+            "sequence_id": 52,
+            "start_frame": 33604,
+            "end_frame": 33856,
+            "start_time": 560.0666666666667,
+            "end_time": 564.2666666666667,
+            "duration": 4.2
+        },
+        {
+            "sequence_id": 53,
+            "start_frame": 33856,
+            "end_frame": 33886,
+            "start_time": 564.2666666666667,
+            "end_time": 564.7666666666667,
+            "duration": 0.5
+        },
+        {
+            "sequence_id": 54,
+            "start_frame": 33886,
+            "end_frame": 34291,
+            "start_time": 564.7666666666667,
+            "end_time": 571.5166666666667,
+            "duration": 6.75
+        },
+        {
+            "sequence_id": 55,
+            "start_frame": 34291,
+            "end_frame": 34668,
+            "start_time": 571.5166666666667,
+            "end_time": 577.8,
+            "duration": 6.283333333333333
+        },
+        {
+            "sequence_id": 56,
+            "start_frame": 34668,
+            "end_frame": 34696,
+            "start_time": 577.8,
+            "end_time": 578.2666666666667,
+            "duration": 0.4666666666666667
+        },
+        {
+            "sequence_id": 57,
+            "start_frame": 34696,
+            "end_frame": 34726,
+            "start_time": 578.2666666666667,
+            "end_time": 578.7666666666667,
+            "duration": 0.5
+        },
+        {
+            "sequence_id": 58,
+            "start_frame": 34726,
+            "end_frame": 34771,
+            "start_time": 578.7666666666667,
+            "end_time": 579.5166666666667,
+            "duration": 0.75
+        },
+        {
+            "sequence_id": 59,
+            "start_frame": 34771,
+            "end_frame": 34808,
+            "start_time": 579.5166666666667,
+            "end_time": 580.1333333333333,
+            "duration": 0.6166666666666667
+        },
+        {
+            "sequence_id": 60,
+            "start_frame": 34808,
+            "end_frame": 34932,
+            "start_time": 580.1333333333333,
+            "end_time": 582.2,
+            "duration": 2.066666666666667
+        },
+        {
+            "sequence_id": 61,
+            "start_frame": 34932,
+            "end_frame": 34957,
+            "start_time": 582.2,
+            "end_time": 582.6166666666667,
+            "duration": 0.4166666666666667
+        },
+        {
+            "sequence_id": 62,
+            "start_frame": 34957,
+            "end_frame": 35447,
+            "start_time": 582.6166666666667,
+            "end_time": 590.7833333333333,
+            "duration": 8.166666666666666
+        },
+        {
+            "sequence_id": 63,
+            "start_frame": 35447,
+            "end_frame": 35467,
+            "start_time": 590.7833333333333,
+            "end_time": 591.1166666666667,
+            "duration": 0.3333333333333333
+        },
+        {
+            "sequence_id": 64,
+            "start_frame": 35467,
+            "end_frame": 35622,
+            "start_time": 591.1166666666667,
+            "end_time": 593.7,
+            "duration": 2.5833333333333335
+        },
+        {
+            "sequence_id": 65,
+            "start_frame": 35622,
+            "end_frame": 35686,
+            "start_time": 593.7,
+            "end_time": 594.7666666666667,
+            "duration": 1.0666666666666667
+        },
+        {
+            "sequence_id": 66,
+            "start_frame": 35686,
+            "end_frame": 36474,
+            "start_time": 594.7666666666667,
+            "end_time": 607.9,
+            "duration": 13.133333333333333
+        },
+        {
+            "sequence_id": 67,
+            "start_frame": 36474,
+            "end_frame": 37233,
+            "start_time": 607.9,
+            "end_time": 620.55,
+            "duration": 12.65
+        },
+        {
+            "sequence_id": 68,
+            "start_frame": 37233,
+            "end_frame": 37748,
+            "start_time": 620.55,
+            "end_time": 629.1333333333333,
+            "duration": 8.583333333333334
+        },
+        {
+            "sequence_id": 69,
+            "start_frame": 37748,
+            "end_frame": 37847,
+            "start_time": 629.1333333333333,
+            "end_time": 630.7833333333333,
+            "duration": 1.65
+        },
+        {
+            "sequence_id": 70,
+            "start_frame": 37847,
+            "end_frame": 38110,
+            "start_time": 630.7833333333333,
+            "end_time": 635.1666666666666,
+            "duration": 4.383333333333334
+        },
+        {
+            "sequence_id": 71,
+            "start_frame": 38110,
+            "end_frame": 38123,
+            "start_time": 635.1666666666666,
+            "end_time": 635.3833333333333,
+            "duration": 0.21666666666666667
+        },
+        {
+            "sequence_id": 72,
+            "start_frame": 38123,
+            "end_frame": 38155,
+            "start_time": 635.3833333333333,
+            "end_time": 635.9166666666666,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 73,
+            "start_frame": 38155,
+            "end_frame": 38202,
+            "start_time": 635.9166666666666,
+            "end_time": 636.7,
+            "duration": 0.7833333333333333
+        },
+        {
+            "sequence_id": 74,
+            "start_frame": 38202,
+            "end_frame": 38348,
+            "start_time": 636.7,
+            "end_time": 639.1333333333333,
+            "duration": 2.433333333333333
+        },
+        {
+            "sequence_id": 75,
+            "start_frame": 38348,
+            "end_frame": 38466,
+            "start_time": 639.1333333333333,
+            "end_time": 641.1,
+            "duration": 1.9666666666666666
+        },
+        {
+            "sequence_id": 76,
+            "start_frame": 38466,
+            "end_frame": 38651,
+            "start_time": 641.1,
+            "end_time": 644.1833333333333,
+            "duration": 3.0833333333333335
+        },
+        {
+            "sequence_id": 77,
+            "start_frame": 38651,
+            "end_frame": 38726,
+            "start_time": 644.1833333333333,
+            "end_time": 645.4333333333333,
+            "duration": 1.25
+        },
+        {
+            "sequence_id": 78,
+            "start_frame": 38726,
+            "end_frame": 38991,
+            "start_time": 645.4333333333333,
+            "end_time": 649.85,
+            "duration": 4.416666666666667
+        },
+        {
+            "sequence_id": 79,
+            "start_frame": 38991,
+            "end_frame": 39086,
+            "start_time": 649.85,
+            "end_time": 651.4333333333333,
+            "duration": 1.5833333333333333
+        },
+        {
+            "sequence_id": 80,
+            "start_frame": 39086,
+            "end_frame": 39161,
+            "start_time": 651.4333333333333,
+            "end_time": 652.6833333333333,
+            "duration": 1.25
+        },
+        {
+            "sequence_id": 81,
+            "start_frame": 39161,
+            "end_frame": 39208,
+            "start_time": 652.6833333333333,
+            "end_time": 653.4666666666667,
+            "duration": 0.7833333333333333
+        },
+        {
+            "sequence_id": 82,
+            "start_frame": 39208,
+            "end_frame": 39288,
+            "start_time": 653.4666666666667,
+            "end_time": 654.8,
+            "duration": 1.3333333333333333
+        },
+        {
+            "sequence_id": 83,
+            "start_frame": 39288,
+            "end_frame": 39511,
+            "start_time": 654.8,
+            "end_time": 658.5166666666667,
+            "duration": 3.716666666666667
+        },
+        {
+            "sequence_id": 84,
+            "start_frame": 39511,
+            "end_frame": 39838,
+            "start_time": 658.5166666666667,
+            "end_time": 663.9666666666667,
+            "duration": 5.45
+        },
+        {
+            "sequence_id": 85,
+            "start_frame": 39838,
+            "end_frame": 39988,
+            "start_time": 663.9666666666667,
+            "end_time": 666.4666666666667,
+            "duration": 2.5
+        },
+        {
+            "sequence_id": 86,
+            "start_frame": 39988,
+            "end_frame": 40105,
+            "start_time": 666.4666666666667,
+            "end_time": 668.4166666666666,
+            "duration": 1.95
+        },
+        {
+            "sequence_id": 87,
+            "start_frame": 40105,
+            "end_frame": 40302,
+            "start_time": 668.4166666666666,
+            "end_time": 671.7,
+            "duration": 3.283333333333333
+        },
+        {
+            "sequence_id": 88,
+            "start_frame": 40302,
+            "end_frame": 40498,
+            "start_time": 671.7,
+            "end_time": 674.9666666666667,
+            "duration": 3.2666666666666666
+        },
+        {
+            "sequence_id": 89,
+            "start_frame": 40498,
+            "end_frame": 40563,
+            "start_time": 674.9666666666667,
+            "end_time": 676.05,
+            "duration": 1.0833333333333333
+        },
+        {
+            "sequence_id": 90,
+            "start_frame": 40563,
+            "end_frame": 40628,
+            "start_time": 676.05,
+            "end_time": 677.1333333333333,
+            "duration": 1.0833333333333333
+        },
+        {
+            "sequence_id": 91,
+            "start_frame": 40628,
+            "end_frame": 40694,
+            "start_time": 677.1333333333333,
+            "end_time": 678.2333333333333,
+            "duration": 1.1
+        },
+        {
+            "sequence_id": 92,
+            "start_frame": 40694,
+            "end_frame": 40776,
+            "start_time": 678.2333333333333,
+            "end_time": 679.6,
+            "duration": 1.3666666666666667
+        },
+        {
+            "sequence_id": 93,
+            "start_frame": 40776,
+            "end_frame": 40894,
+            "start_time": 679.6,
+            "end_time": 681.5666666666667,
+            "duration": 1.9666666666666666
+        },
+        {
+            "sequence_id": 94,
+            "start_frame": 40894,
+            "end_frame": 40991,
+            "start_time": 681.5666666666667,
+            "end_time": 683.1833333333333,
+            "duration": 1.6166666666666667
+        },
+        {
+            "sequence_id": 95,
+            "start_frame": 40991,
+            "end_frame": 41023,
+            "start_time": 683.1833333333333,
+            "end_time": 683.7166666666667,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 96,
+            "start_frame": 41023,
+            "end_frame": 41074,
+            "start_time": 683.7166666666667,
+            "end_time": 684.5666666666667,
+            "duration": 0.85
+        },
+        {
+            "sequence_id": 97,
+            "start_frame": 41074,
+            "end_frame": 41158,
+            "start_time": 684.5666666666667,
+            "end_time": 685.9666666666667,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 98,
+            "start_frame": 41158,
+            "end_frame": 41179,
+            "start_time": 685.9666666666667,
+            "end_time": 686.3166666666667,
+            "duration": 0.35
+        },
+        {
+            "sequence_id": 99,
+            "start_frame": 41179,
+            "end_frame": 41216,
+            "start_time": 686.3166666666667,
+            "end_time": 686.9333333333333,
+            "duration": 0.6166666666666667
+        },
+        {
+            "sequence_id": 100,
+            "start_frame": 41216,
+            "end_frame": 41238,
+            "start_time": 686.9333333333333,
+            "end_time": 687.3,
+            "duration": 0.36666666666666664
+        },
+        {
+            "sequence_id": 101,
+            "start_frame": 41238,
+            "end_frame": 41721,
+            "start_time": 687.3,
+            "end_time": 695.35,
+            "duration": 8.05
+        },
+        {
+            "sequence_id": 102,
+            "start_frame": 41721,
+            "end_frame": 41823,
+            "start_time": 695.35,
+            "end_time": 697.05,
+            "duration": 1.7
+        },
+        {
+            "sequence_id": 103,
+            "start_frame": 41823,
+            "end_frame": 42050,
+            "start_time": 697.05,
+            "end_time": 700.8333333333334,
+            "duration": 3.783333333333333
+        },
+        {
+            "sequence_id": 104,
+            "start_frame": 42050,
+            "end_frame": 42108,
+            "start_time": 700.8333333333334,
+            "end_time": 701.8,
+            "duration": 0.9666666666666667
+        },
+        {
+            "sequence_id": 105,
+            "start_frame": 42108,
+            "end_frame": 42298,
+            "start_time": 701.8,
+            "end_time": 704.9666666666667,
+            "duration": 3.1666666666666665
+        },
+        {
+            "sequence_id": 106,
+            "start_frame": 42298,
+            "end_frame": 42343,
+            "start_time": 704.9666666666667,
+            "end_time": 705.7166666666667,
+            "duration": 0.75
+        },
+        {
+            "sequence_id": 107,
+            "start_frame": 42343,
+            "end_frame": 42358,
+            "start_time": 705.7166666666667,
+            "end_time": 705.9666666666667,
+            "duration": 0.25
+        },
+        {
+            "sequence_id": 108,
+            "start_frame": 42358,
+            "end_frame": 42391,
+            "start_time": 705.9666666666667,
+            "end_time": 706.5166666666667,
+            "duration": 0.55
+        },
+        {
+            "sequence_id": 109,
+            "start_frame": 42391,
+            "end_frame": 42414,
+            "start_time": 706.5166666666667,
+            "end_time": 706.9,
+            "duration": 0.38333333333333336
+        },
+        {
+            "sequence_id": 110,
+            "start_frame": 42414,
+            "end_frame": 42485,
+            "start_time": 706.9,
+            "end_time": 708.0833333333334,
+            "duration": 1.1833333333333333
+        },
+        {
+            "sequence_id": 111,
+            "start_frame": 42485,
+            "end_frame": 42805,
+            "start_time": 708.0833333333334,
+            "end_time": 713.4166666666666,
+            "duration": 5.333333333333333
+        },
+        {
+            "sequence_id": 112,
+            "start_frame": 42805,
+            "end_frame": 42892,
+            "start_time": 713.4166666666666,
+            "end_time": 714.8666666666667,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 113,
+            "start_frame": 42892,
+            "end_frame": 42976,
+            "start_time": 714.8666666666667,
+            "end_time": 716.2666666666667,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 114,
+            "start_frame": 42976,
+            "end_frame": 43023,
+            "start_time": 716.2666666666667,
+            "end_time": 717.05,
+            "duration": 0.7833333333333333
+        },
+        {
+            "sequence_id": 115,
+            "start_frame": 43023,
+            "end_frame": 43123,
+            "start_time": 717.05,
+            "end_time": 718.7166666666667,
+            "duration": 1.6666666666666667
+        },
+        {
+            "sequence_id": 116,
+            "start_frame": 43123,
+            "end_frame": 43389,
+            "start_time": 718.7166666666667,
+            "end_time": 723.15,
+            "duration": 4.433333333333334
+        },
+        {
+            "sequence_id": 117,
+            "start_frame": 43389,
+            "end_frame": 43523,
+            "start_time": 723.15,
+            "end_time": 725.3833333333333,
+            "duration": 2.2333333333333334
+        },
+        {
+            "sequence_id": 118,
+            "start_frame": 43523,
+            "end_frame": 43676,
+            "start_time": 725.3833333333333,
+            "end_time": 727.9333333333333,
+            "duration": 2.55
+        },
+        {
+            "sequence_id": 119,
+            "start_frame": 43676,
+            "end_frame": 44297,
+            "start_time": 727.9333333333333,
+            "end_time": 738.2833333333333,
+            "duration": 10.35
+        },
+        {
+            "sequence_id": 120,
+            "start_frame": 44297,
+            "end_frame": 44666,
+            "start_time": 738.2833333333333,
+            "end_time": 744.4333333333333,
+            "duration": 6.15
+        },
+        {
+            "sequence_id": 121,
+            "start_frame": 44666,
+            "end_frame": 44753,
+            "start_time": 744.4333333333333,
+            "end_time": 745.8833333333333,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 122,
+            "start_frame": 44753,
+            "end_frame": 44826,
+            "start_time": 745.8833333333333,
+            "end_time": 747.1,
+            "duration": 1.2166666666666666
+        },
+        {
+            "sequence_id": 123,
+            "start_frame": 44826,
+            "end_frame": 44893,
+            "start_time": 747.1,
+            "end_time": 748.2166666666667,
+            "duration": 1.1166666666666667
+        },
+        {
+            "sequence_id": 124,
+            "start_frame": 44893,
+            "end_frame": 44932,
+            "start_time": 748.2166666666667,
+            "end_time": 748.8666666666667,
+            "duration": 0.65
+        },
+        {
+            "sequence_id": 125,
+            "start_frame": 44932,
+            "end_frame": 44966,
+            "start_time": 748.8666666666667,
+            "end_time": 749.4333333333333,
+            "duration": 0.5666666666666667
+        },
+        {
+            "sequence_id": 126,
+            "start_frame": 44966,
+            "end_frame": 45166,
+            "start_time": 749.4333333333333,
+            "end_time": 752.7666666666667,
+            "duration": 3.3333333333333335
+        },
+        {
+            "sequence_id": 127,
+            "start_frame": 45166,
+            "end_frame": 45911,
+            "start_time": 752.7666666666667,
+            "end_time": 765.1833333333333,
+            "duration": 12.416666666666666
+        },
+        {
+            "sequence_id": 128,
+            "start_frame": 45911,
+            "end_frame": 46051,
+            "start_time": 765.1833333333333,
+            "end_time": 767.5166666666667,
+            "duration": 2.3333333333333335
+        },
+        {
+            "sequence_id": 129,
+            "start_frame": 46051,
+            "end_frame": 46109,
+            "start_time": 767.5166666666667,
+            "end_time": 768.4833333333333,
+            "duration": 0.9666666666666667
+        },
+        {
+            "sequence_id": 130,
+            "start_frame": 46109,
+            "end_frame": 46299,
+            "start_time": 768.4833333333333,
+            "end_time": 771.65,
+            "duration": 3.1666666666666665
+        },
+        {
+            "sequence_id": 131,
+            "start_frame": 46299,
+            "end_frame": 47116,
+            "start_time": 771.65,
+            "end_time": 785.2666666666667,
+            "duration": 13.616666666666667
+        },
+        {
+            "sequence_id": 132,
+            "start_frame": 47116,
+            "end_frame": 47131,
+            "start_time": 785.2666666666667,
+            "end_time": 785.5166666666667,
+            "duration": 0.25
+        },
+        {
+            "sequence_id": 133,
+            "start_frame": 47131,
+            "end_frame": 47303,
+            "start_time": 785.5166666666667,
+            "end_time": 788.3833333333333,
+            "duration": 2.8666666666666667
+        },
+        {
+            "sequence_id": 134,
+            "start_frame": 47303,
+            "end_frame": 47770,
+            "start_time": 788.3833333333333,
+            "end_time": 796.1666666666666,
+            "duration": 7.783333333333333
+        },
+        {
+            "sequence_id": 135,
+            "start_frame": 47770,
+            "end_frame": 48208,
+            "start_time": 796.1666666666666,
+            "end_time": 803.4666666666667,
+            "duration": 7.3
+        },
+        {
+            "sequence_id": 136,
+            "start_frame": 48208,
+            "end_frame": 48246,
+            "start_time": 803.4666666666667,
+            "end_time": 804.1,
+            "duration": 0.6333333333333333
+        },
+        {
+            "sequence_id": 137,
+            "start_frame": 48246,
+            "end_frame": 48347,
+            "start_time": 804.1,
+            "end_time": 805.7833333333333,
+            "duration": 1.6833333333333333
+        },
+        {
+            "sequence_id": 138,
+            "start_frame": 48347,
+            "end_frame": 48661,
+            "start_time": 805.7833333333333,
+            "end_time": 811.0166666666667,
+            "duration": 5.233333333333333
+        },
+        {
+            "sequence_id": 139,
+            "start_frame": 48661,
+            "end_frame": 49711,
+            "start_time": 811.0166666666667,
+            "end_time": 828.5166666666667,
+            "duration": 17.5
+        },
+        {
+            "sequence_id": 140,
+            "start_frame": 49711,
+            "end_frame": 49993,
+            "start_time": 828.5166666666667,
+            "end_time": 833.2166666666667,
+            "duration": 4.7
+        },
+        {
+            "sequence_id": 141,
+            "start_frame": 49993,
+            "end_frame": 50095,
+            "start_time": 833.2166666666667,
+            "end_time": 834.9166666666666,
+            "duration": 1.7
+        },
+        {
+            "sequence_id": 142,
+            "start_frame": 50095,
+            "end_frame": 50201,
+            "start_time": 834.9166666666666,
+            "end_time": 836.6833333333333,
+            "duration": 1.7666666666666666
+        },
+        {
+            "sequence_id": 143,
+            "start_frame": 50201,
+            "end_frame": 50361,
+            "start_time": 836.6833333333333,
+            "end_time": 839.35,
+            "duration": 2.6666666666666665
+        },
+        {
+            "sequence_id": 144,
+            "start_frame": 50361,
+            "end_frame": 50712,
+            "start_time": 839.35,
+            "end_time": 845.2,
+            "duration": 5.85
+        },
+        {
+            "sequence_id": 145,
+            "start_frame": 50712,
+            "end_frame": 51406,
+            "start_time": 845.2,
+            "end_time": 856.7666666666667,
+            "duration": 11.566666666666666
+        },
+        {
+            "sequence_id": 146,
+            "start_frame": 51406,
+            "end_frame": 52215,
+            "start_time": 856.7666666666667,
+            "end_time": 870.25,
+            "duration": 13.483333333333333
+        },
+        {
+            "sequence_id": 147,
+            "start_frame": 52215,
+            "end_frame": 53159,
+            "start_time": 870.25,
+            "end_time": 885.9833333333333,
+            "duration": 15.733333333333333
+        },
+        {
+            "sequence_id": 148,
+            "start_frame": 53159,
+            "end_frame": 53468,
+            "start_time": 885.9833333333333,
+            "end_time": 891.1333333333333,
+            "duration": 5.15
+        },
+        {
+            "sequence_id": 149,
+            "start_frame": 53468,
+            "end_frame": 53507,
+            "start_time": 891.1333333333333,
+            "end_time": 891.7833333333333,
+            "duration": 0.65
+        },
+        {
+            "sequence_id": 150,
+            "start_frame": 53507,
+            "end_frame": 54489,
+            "start_time": 891.7833333333333,
+            "end_time": 908.15,
+            "duration": 16.366666666666667
+        },
+        {
+            "sequence_id": 151,
+            "start_frame": 54489,
+            "end_frame": 54552,
+            "start_time": 908.15,
+            "end_time": 909.2,
+            "duration": 1.05
+        },
+        {
+            "sequence_id": 152,
+            "start_frame": 54552,
+            "end_frame": 54691,
+            "start_time": 909.2,
+            "end_time": 911.5166666666667,
+            "duration": 2.316666666666667
+        },
+        {
+            "sequence_id": 153,
+            "start_frame": 54691,
+            "end_frame": 54932,
+            "start_time": 911.5166666666667,
+            "end_time": 915.5333333333333,
+            "duration": 4.016666666666667
+        },
+        {
+            "sequence_id": 154,
+            "start_frame": 54932,
+            "end_frame": 55413,
+            "start_time": 915.5333333333333,
+            "end_time": 923.55,
+            "duration": 8.016666666666667
+        },
+        {
+            "sequence_id": 155,
+            "start_frame": 55413,
+            "end_frame": 55545,
+            "start_time": 923.55,
+            "end_time": 925.75,
+            "duration": 2.2
+        },
+        {
+            "sequence_id": 156,
+            "start_frame": 55545,
+            "end_frame": 55696,
+            "start_time": 925.75,
+            "end_time": 928.2666666666667,
+            "duration": 2.5166666666666666
+        },
+        {
+            "sequence_id": 157,
+            "start_frame": 55696,
+            "end_frame": 55750,
+            "start_time": 928.2666666666667,
+            "end_time": 929.1666666666666,
+            "duration": 0.9
+        },
+        {
+            "sequence_id": 158,
+            "start_frame": 55750,
+            "end_frame": 56471,
+            "start_time": 929.1666666666666,
+            "end_time": 941.1833333333333,
+            "duration": 12.016666666666667
+        },
+        {
+            "sequence_id": 159,
+            "start_frame": 56471,
+            "end_frame": 56830,
+            "start_time": 941.1833333333333,
+            "end_time": 947.1666666666666,
+            "duration": 5.983333333333333
+        },
+        {
+            "sequence_id": 160,
+            "start_frame": 56830,
+            "end_frame": 57154,
+            "start_time": 947.1666666666666,
+            "end_time": 952.5666666666667,
+            "duration": 5.4
+        },
+        {
+            "sequence_id": 161,
+            "start_frame": 57154,
+            "end_frame": 57236,
+            "start_time": 952.5666666666667,
+            "end_time": 953.9333333333333,
+            "duration": 1.3666666666666667
+        },
+        {
+            "sequence_id": 162,
+            "start_frame": 57236,
+            "end_frame": 57261,
+            "start_time": 953.9333333333333,
+            "end_time": 954.35,
+            "duration": 0.4166666666666667
+        },
+        {
+            "sequence_id": 163,
+            "start_frame": 57261,
+            "end_frame": 57442,
+            "start_time": 954.35,
+            "end_time": 957.3666666666667,
+            "duration": 3.0166666666666666
+        },
+        {
+            "sequence_id": 164,
+            "start_frame": 57442,
+            "end_frame": 57526,
+            "start_time": 957.3666666666667,
+            "end_time": 958.7666666666667,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 165,
+            "start_frame": 57526,
+            "end_frame": 57599,
+            "start_time": 958.7666666666667,
+            "end_time": 959.9833333333333,
+            "duration": 1.2166666666666666
+        },
+        {
+            "sequence_id": 166,
+            "start_frame": 57599,
+            "end_frame": 57686,
+            "start_time": 959.9833333333333,
+            "end_time": 961.4333333333333,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 167,
+            "start_frame": 57686,
+            "end_frame": 58024,
+            "start_time": 961.4333333333333,
+            "end_time": 967.0666666666667,
+            "duration": 5.633333333333334
+        },
+        {
+            "sequence_id": 168,
+            "start_frame": 58024,
+            "end_frame": 58220,
+            "start_time": 967.0666666666667,
+            "end_time": 970.3333333333334,
+            "duration": 3.2666666666666666
+        },
+        {
+            "sequence_id": 169,
+            "start_frame": 58220,
+            "end_frame": 58242,
+            "start_time": 970.3333333333334,
+            "end_time": 970.7,
+            "duration": 0.36666666666666664
+        },
+        {
+            "sequence_id": 170,
+            "start_frame": 58242,
+            "end_frame": 59006,
+            "start_time": 970.7,
+            "end_time": 983.4333333333333,
+            "duration": 12.733333333333333
+        },
+        {
+            "sequence_id": 171,
+            "start_frame": 59006,
+            "end_frame": 60080,
+            "start_time": 983.4333333333333,
+            "end_time": 1001.3333333333334,
+            "duration": 17.9
+        },
+        {
+            "sequence_id": 172,
+            "start_frame": 60080,
+            "end_frame": 60250,
+            "start_time": 1001.3333333333334,
+            "end_time": 1004.1666666666666,
+            "duration": 2.8333333333333335
+        },
+        {
+            "sequence_id": 173,
+            "start_frame": 60250,
+            "end_frame": 60390,
+            "start_time": 1004.1666666666666,
+            "end_time": 1006.5,
+            "duration": 2.3333333333333335
+        },
+        {
+            "sequence_id": 174,
+            "start_frame": 60390,
+            "end_frame": 60819,
+            "start_time": 1006.5,
+            "end_time": 1013.65,
+            "duration": 7.15
+        },
+        {
+            "sequence_id": 175,
+            "start_frame": 60819,
+            "end_frame": 61054,
+            "start_time": 1013.65,
+            "end_time": 1017.5666666666667,
+            "duration": 3.9166666666666665
+        },
+        {
+            "sequence_id": 176,
+            "start_frame": 61054,
+            "end_frame": 61187,
+            "start_time": 1017.5666666666667,
+            "end_time": 1019.7833333333333,
+            "duration": 2.216666666666667
+        },
+        {
+            "sequence_id": 177,
+            "start_frame": 61187,
+            "end_frame": 61602,
+            "start_time": 1019.7833333333333,
+            "end_time": 1026.7,
+            "duration": 6.916666666666667
+        },
+        {
+            "sequence_id": 178,
+            "start_frame": 61602,
+            "end_frame": 61863,
+            "start_time": 1026.7,
+            "end_time": 1031.05,
+            "duration": 4.35
+        },
+        {
+            "sequence_id": 179,
+            "start_frame": 61863,
+            "end_frame": 61941,
+            "start_time": 1031.05,
+            "end_time": 1032.35,
+            "duration": 1.3
+        },
+        {
+            "sequence_id": 180,
+            "start_frame": 61941,
+            "end_frame": 61985,
+            "start_time": 1032.35,
+            "end_time": 1033.0833333333333,
+            "duration": 0.7333333333333333
+        },
+        {
+            "sequence_id": 181,
+            "start_frame": 61985,
+            "end_frame": 62331,
+            "start_time": 1033.0833333333333,
+            "end_time": 1038.85,
+            "duration": 5.766666666666667
+        },
+        {
+            "sequence_id": 182,
+            "start_frame": 62331,
+            "end_frame": 62867,
+            "start_time": 1038.85,
+            "end_time": 1047.7833333333333,
+            "duration": 8.933333333333334
+        },
+        {
+            "sequence_id": 183,
+            "start_frame": 62867,
+            "end_frame": 62973,
+            "start_time": 1047.7833333333333,
+            "end_time": 1049.55,
+            "duration": 1.7666666666666666
+        },
+        {
+            "sequence_id": 184,
+            "start_frame": 62973,
+            "end_frame": 63031,
+            "start_time": 1049.55,
+            "end_time": 1050.5166666666667,
+            "duration": 0.9666666666666667
+        },
+        {
+            "sequence_id": 185,
+            "start_frame": 63031,
+            "end_frame": 63063,
+            "start_time": 1050.5166666666667,
+            "end_time": 1051.05,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 186,
+            "start_frame": 63063,
+            "end_frame": 63224,
+            "start_time": 1051.05,
+            "end_time": 1053.7333333333333,
+            "duration": 2.683333333333333
+        },
+        {
+            "sequence_id": 187,
+            "start_frame": 63224,
+            "end_frame": 63560,
+            "start_time": 1053.7333333333333,
+            "end_time": 1059.3333333333333,
+            "duration": 5.6
+        },
+        {
+            "sequence_id": 188,
+            "start_frame": 63560,
+            "end_frame": 63712,
+            "start_time": 1059.3333333333333,
+            "end_time": 1061.8666666666666,
+            "duration": 2.533333333333333
+        },
+        {
+            "sequence_id": 189,
+            "start_frame": 63712,
+            "end_frame": 63812,
+            "start_time": 1061.8666666666666,
+            "end_time": 1063.5333333333333,
+            "duration": 1.6666666666666667
+        },
+        {
+            "sequence_id": 190,
+            "start_frame": 63812,
+            "end_frame": 64268,
+            "start_time": 1063.5333333333333,
+            "end_time": 1071.1333333333334,
+            "duration": 7.6
+        },
+        {
+            "sequence_id": 191,
+            "start_frame": 64268,
+            "end_frame": 64497,
+            "start_time": 1071.1333333333334,
+            "end_time": 1074.95,
+            "duration": 3.816666666666667
+        },
+        {
+            "sequence_id": 192,
+            "start_frame": 64497,
+            "end_frame": 64530,
+            "start_time": 1074.95,
+            "end_time": 1075.5,
+            "duration": 0.55
+        },
+        {
+            "sequence_id": 193,
+            "start_frame": 64530,
+            "end_frame": 65188,
+            "start_time": 1075.5,
+            "end_time": 1086.4666666666667,
+            "duration": 10.966666666666667
+        },
+        {
+            "sequence_id": 194,
+            "start_frame": 65188,
+            "end_frame": 73300,
+            "start_time": 1086.4666666666667,
+            "end_time": 1221.6666666666667,
+            "duration": 135.2
+        },
+        {
+            "sequence_id": 195,
+            "start_frame": 73300,
+            "end_frame": 73915,
+            "start_time": 1221.6666666666667,
+            "end_time": 1231.9166666666667,
+            "duration": 10.25
+        },
+        {
+            "sequence_id": 196,
+            "start_frame": 73915,
+            "end_frame": 74670,
+            "start_time": 1231.9166666666667,
+            "end_time": 1244.5,
+            "duration": 12.583333333333334
+        },
+        {
+            "sequence_id": 197,
+            "start_frame": 74670,
+            "end_frame": 75529,
+            "start_time": 1244.5,
+            "end_time": 1258.8166666666666,
+            "duration": 14.316666666666666
+        },
+        {
+            "sequence_id": 198,
+            "start_frame": 75529,
+            "end_frame": 76314,
+            "start_time": 1258.8166666666666,
+            "end_time": 1271.9,
+            "duration": 13.083333333333334
+        },
+        {
+            "sequence_id": 199,
+            "start_frame": 76314,
+            "end_frame": 76345,
+            "start_time": 1271.9,
+            "end_time": 1272.4166666666667,
+            "duration": 0.5166666666666667
+        },
+        {
+            "sequence_id": 200,
+            "start_frame": 76345,
+            "end_frame": 76391,
+            "start_time": 1272.4166666666667,
+            "end_time": 1273.1833333333334,
+            "duration": 0.7666666666666667
+        },
+        {
+            "sequence_id": 201,
+            "start_frame": 76391,
+            "end_frame": 80734,
+            "start_time": 1273.1833333333334,
+            "end_time": 1345.5666666666666,
+            "duration": 72.38333333333334
+        },
+        {
+            "sequence_id": 202,
+            "start_frame": 80734,
+            "end_frame": 80858,
+            "start_time": 1345.5666666666666,
+            "end_time": 1347.6333333333334,
+            "duration": 2.066666666666667
+        },
+        {
+            "sequence_id": 203,
+            "start_frame": 80858,
+            "end_frame": 85705,
+            "start_time": 1347.6333333333334,
+            "end_time": 1428.4166666666667,
+            "duration": 80.78333333333333
+        },
+        {
+            "sequence_id": 204,
+            "start_frame": 85705,
+            "end_frame": 86236,
+            "start_time": 1428.4166666666667,
+            "end_time": 1437.2666666666667,
+            "duration": 8.85
+        },
+        {
+            "sequence_id": 205,
+            "start_frame": 86236,
+            "end_frame": 90403,
+            "start_time": 1437.2666666666667,
+            "end_time": 1506.7166666666667,
+            "duration": 69.45
+        },
+        {
+            "sequence_id": 206,
+            "start_frame": 90403,
+            "end_frame": 91150,
+            "start_time": 1506.7166666666667,
+            "end_time": 1519.1666666666667,
+            "duration": 12.45
+        },
+        {
+            "sequence_id": 207,
+            "start_frame": 91150,
+            "end_frame": 94302,
+            "start_time": 1519.1666666666667,
+            "end_time": 1571.7,
+            "duration": 52.53333333333333
+        },
+        {
+            "sequence_id": 208,
+            "start_frame": 94302,
+            "end_frame": 94928,
+            "start_time": 1571.7,
+            "end_time": 1582.1333333333334,
+            "duration": 10.433333333333334
+        },
+        {
+            "sequence_id": 209,
+            "start_frame": 94928,
+            "end_frame": 95287,
+            "start_time": 1582.1333333333334,
+            "end_time": 1588.1166666666666,
+            "duration": 5.983333333333333
+        },
+        {
+            "sequence_id": 210,
+            "start_frame": 95287,
+            "end_frame": 96004,
+            "start_time": 1588.1166666666666,
+            "end_time": 1600.0666666666666,
+            "duration": 11.95
+        },
+        {
+            "sequence_id": 211,
+            "start_frame": 96004,
+            "end_frame": 96316,
+            "start_time": 1600.0666666666666,
+            "end_time": 1605.2666666666667,
+            "duration": 5.2
+        },
+        {
+            "sequence_id": 212,
+            "start_frame": 96316,
+            "end_frame": 97261,
+            "start_time": 1605.2666666666667,
+            "end_time": 1621.0166666666667,
+            "duration": 15.75
+        },
+        {
+            "sequence_id": 213,
+            "start_frame": 97261,
+            "end_frame": 97552,
+            "start_time": 1621.0166666666667,
+            "end_time": 1625.8666666666666,
+            "duration": 4.85
+        },
+        {
+            "sequence_id": 214,
+            "start_frame": 97552,
+            "end_frame": 100059,
+            "start_time": 1625.8666666666666,
+            "end_time": 1667.65,
+            "duration": 41.78333333333333
+        },
+        {
+            "sequence_id": 215,
+            "start_frame": 100059,
+            "end_frame": 100466,
+            "start_time": 1667.65,
+            "end_time": 1674.4333333333334,
+            "duration": 6.783333333333333
+        },
+        {
+            "sequence_id": 216,
+            "start_frame": 100466,
+            "end_frame": 101066,
+            "start_time": 1674.4333333333334,
+            "end_time": 1684.4333333333334,
+            "duration": 10.0
+        },
+        {
+            "sequence_id": 217,
+            "start_frame": 101066,
+            "end_frame": 101245,
+            "start_time": 1684.4333333333334,
+            "end_time": 1687.4166666666667,
+            "duration": 2.9833333333333334
+        },
+        {
+            "sequence_id": 218,
+            "start_frame": 101245,
+            "end_frame": 101508,
+            "start_time": 1687.4166666666667,
+            "end_time": 1691.8,
+            "duration": 4.383333333333334
+        },
+        {
+            "sequence_id": 219,
+            "start_frame": 101508,
+            "end_frame": 101970,
+            "start_time": 1691.8,
+            "end_time": 1699.5,
+            "duration": 7.7
+        },
+        {
+            "sequence_id": 220,
+            "start_frame": 101970,
+            "end_frame": 102216,
+            "start_time": 1699.5,
+            "end_time": 1703.6,
+            "duration": 4.1
+        },
+        {
+            "sequence_id": 221,
+            "start_frame": 102216,
+            "end_frame": 103195,
+            "start_time": 1703.6,
+            "end_time": 1719.9166666666667,
+            "duration": 16.316666666666666
+        },
+        {
+            "sequence_id": 222,
+            "start_frame": 103195,
+            "end_frame": 103805,
+            "start_time": 1719.9166666666667,
+            "end_time": 1730.0833333333333,
+            "duration": 10.166666666666666
+        },
+        {
+            "sequence_id": 223,
+            "start_frame": 103805,
+            "end_frame": 104807,
+            "start_time": 1730.0833333333333,
+            "end_time": 1746.7833333333333,
+            "duration": 16.7
+        },
+        {
+            "sequence_id": 224,
+            "start_frame": 104807,
+            "end_frame": 105301,
+            "start_time": 1746.7833333333333,
+            "end_time": 1755.0166666666667,
+            "duration": 8.233333333333333
+        },
+        {
+            "sequence_id": 225,
+            "start_frame": 105301,
+            "end_frame": 105638,
+            "start_time": 1755.0166666666667,
+            "end_time": 1760.6333333333334,
+            "duration": 5.616666666666666
+        },
+        {
+            "sequence_id": 226,
+            "start_frame": 105638,
+            "end_frame": 106033,
+            "start_time": 1760.6333333333334,
+            "end_time": 1767.2166666666667,
+            "duration": 6.583333333333333
+        },
+        {
+            "sequence_id": 227,
+            "start_frame": 106033,
+            "end_frame": 106631,
+            "start_time": 1767.2166666666667,
+            "end_time": 1777.1833333333334,
+            "duration": 9.966666666666667
+        },
+        {
+            "sequence_id": 228,
+            "start_frame": 106631,
+            "end_frame": 107716,
+            "start_time": 1777.1833333333334,
+            "end_time": 1795.2666666666667,
+            "duration": 18.083333333333332
+        },
+        {
+            "sequence_id": 229,
+            "start_frame": 107716,
+            "end_frame": 108183,
+            "start_time": 1795.2666666666667,
+            "end_time": 1803.05,
+            "duration": 7.783333333333333
+        },
+        {
+            "sequence_id": 230,
+            "start_frame": 108183,
+            "end_frame": 108878,
+            "start_time": 1803.05,
+            "end_time": 1814.6333333333334,
+            "duration": 11.583333333333334
+        },
+        {
+            "sequence_id": 231,
+            "start_frame": 108878,
+            "end_frame": 109937,
+            "start_time": 1814.6333333333334,
+            "end_time": 1832.2833333333333,
+            "duration": 17.65
+        },
+        {
+            "sequence_id": 232,
+            "start_frame": 109937,
+            "end_frame": 110362,
+            "start_time": 1832.2833333333333,
+            "end_time": 1839.3666666666666,
+            "duration": 7.083333333333333
+        },
+        {
+            "sequence_id": 233,
+            "start_frame": 110362,
+            "end_frame": 110819,
+            "start_time": 1839.3666666666666,
+            "end_time": 1846.9833333333333,
+            "duration": 7.616666666666666
+        },
+        {
+            "sequence_id": 234,
+            "start_frame": 110819,
+            "end_frame": 111099,
+            "start_time": 1846.9833333333333,
+            "end_time": 1851.65,
+            "duration": 4.666666666666667
+        },
+        {
+            "sequence_id": 235,
+            "start_frame": 111099,
+            "end_frame": 115848,
+            "start_time": 1851.65,
+            "end_time": 1930.8,
+            "duration": 79.15
+        },
+        {
+            "sequence_id": 236,
+            "start_frame": 115848,
+            "end_frame": 120880,
+            "start_time": 1930.8,
+            "end_time": 2014.6666666666667,
+            "duration": 83.86666666666666
+        },
+        {
+            "sequence_id": 237,
+            "start_frame": 120880,
+            "end_frame": 121302,
+            "start_time": 2014.6666666666667,
+            "end_time": 2021.7,
+            "duration": 7.033333333333333
+        },
+        {
+            "sequence_id": 238,
+            "start_frame": 121302,
+            "end_frame": 121475,
+            "start_time": 2021.7,
+            "end_time": 2024.5833333333333,
+            "duration": 2.8833333333333333
+        },
+        {
+            "sequence_id": 239,
+            "start_frame": 121475,
+            "end_frame": 121721,
+            "start_time": 2024.5833333333333,
+            "end_time": 2028.6833333333334,
+            "duration": 4.1
+        },
+        {
+            "sequence_id": 240,
+            "start_frame": 121721,
+            "end_frame": 122073,
+            "start_time": 2028.6833333333334,
+            "end_time": 2034.55,
+            "duration": 5.866666666666666
+        },
+        {
+            "sequence_id": 241,
+            "start_frame": 122073,
+            "end_frame": 122382,
+            "start_time": 2034.55,
+            "end_time": 2039.7,
+            "duration": 5.15
+        },
+        {
+            "sequence_id": 242,
+            "start_frame": 122382,
+            "end_frame": 122448,
+            "start_time": 2039.7,
+            "end_time": 2040.8,
+            "duration": 1.1
+        },
+        {
+            "sequence_id": 243,
+            "start_frame": 122448,
+            "end_frame": 122545,
+            "start_time": 2040.8,
+            "end_time": 2042.4166666666667,
+            "duration": 1.6166666666666667
+        },
+        {
+            "sequence_id": 244,
+            "start_frame": 122545,
+            "end_frame": 122641,
+            "start_time": 2042.4166666666667,
+            "end_time": 2044.0166666666667,
+            "duration": 1.6
+        },
+        {
+            "sequence_id": 245,
+            "start_frame": 122641,
+            "end_frame": 127394,
+            "start_time": 2044.0166666666667,
+            "end_time": 2123.233333333333,
+            "duration": 79.21666666666667
+        },
+        {
+            "sequence_id": 246,
+            "start_frame": 127394,
+            "end_frame": 138285,
+            "start_time": 2123.233333333333,
+            "end_time": 2304.75,
+            "duration": 181.51666666666668
+        },
+        {
+            "sequence_id": 247,
+            "start_frame": 138285,
+            "end_frame": 148243,
+            "start_time": 2304.75,
+            "end_time": 2470.7166666666667,
+            "duration": 165.96666666666667
+        },
+        {
+            "sequence_id": 248,
+            "start_frame": 148243,
+            "end_frame": 157530,
+            "start_time": 2470.7166666666667,
+            "end_time": 2625.5,
+            "duration": 154.78333333333333
+        },
+        {
+            "sequence_id": 249,
+            "start_frame": 157530,
+            "end_frame": 158620,
+            "start_time": 2625.5,
+            "end_time": 2643.6666666666665,
+            "duration": 18.166666666666668
+        },
+        {
+            "sequence_id": 250,
+            "start_frame": 158620,
+            "end_frame": 159364,
+            "start_time": 2643.6666666666665,
+            "end_time": 2656.0666666666666,
+            "duration": 12.4
+        },
+        {
+            "sequence_id": 251,
+            "start_frame": 159364,
+            "end_frame": 159633,
+            "start_time": 2656.0666666666666,
+            "end_time": 2660.55,
+            "duration": 4.483333333333333
+        },
+        {
+            "sequence_id": 252,
+            "start_frame": 159633,
+            "end_frame": 159698,
+            "start_time": 2660.55,
+            "end_time": 2661.633333333333,
+            "duration": 1.0833333333333333
+        },
+        {
+            "sequence_id": 253,
+            "start_frame": 159698,
+            "end_frame": 159746,
+            "start_time": 2661.633333333333,
+            "end_time": 2662.4333333333334,
+            "duration": 0.8
+        },
+        {
+            "sequence_id": 254,
+            "start_frame": 159746,
+            "end_frame": 160323,
+            "start_time": 2662.4333333333334,
+            "end_time": 2672.05,
+            "duration": 9.616666666666667
+        },
+        {
+            "sequence_id": 255,
+            "start_frame": 160323,
+            "end_frame": 160743,
+            "start_time": 2672.05,
+            "end_time": 2679.05,
+            "duration": 7.0
+        },
+        {
+            "sequence_id": 256,
+            "start_frame": 160743,
+            "end_frame": 160925,
+            "start_time": 2679.05,
+            "end_time": 2682.0833333333335,
+            "duration": 3.033333333333333
+        },
+        {
+            "sequence_id": 257,
+            "start_frame": 160925,
+            "end_frame": 161213,
+            "start_time": 2682.0833333333335,
+            "end_time": 2686.883333333333,
+            "duration": 4.8
+        },
+        {
+            "sequence_id": 258,
+            "start_frame": 161213,
+            "end_frame": 162674,
+            "start_time": 2686.883333333333,
+            "end_time": 2711.233333333333,
+            "duration": 24.35
+        },
+        {
+            "sequence_id": 259,
+            "start_frame": 162674,
+            "end_frame": 162954,
+            "start_time": 2711.233333333333,
+            "end_time": 2715.9,
+            "duration": 4.666666666666667
+        },
+        {
+            "sequence_id": 260,
+            "start_frame": 162954,
+            "end_frame": 163237,
+            "start_time": 2715.9,
+            "end_time": 2720.616666666667,
+            "duration": 4.716666666666667
+        },
+        {
+            "sequence_id": 261,
+            "start_frame": 163237,
+            "end_frame": 163324,
+            "start_time": 2720.616666666667,
+            "end_time": 2722.0666666666666,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 262,
+            "start_frame": 163324,
+            "end_frame": 163451,
+            "start_time": 2722.0666666666666,
+            "end_time": 2724.1833333333334,
+            "duration": 2.1166666666666667
+        },
+        {
+            "sequence_id": 263,
+            "start_frame": 163451,
+            "end_frame": 163477,
+            "start_time": 2724.1833333333334,
+            "end_time": 2724.616666666667,
+            "duration": 0.43333333333333335
+        },
+        {
+            "sequence_id": 264,
+            "start_frame": 163477,
+            "end_frame": 163610,
+            "start_time": 2724.616666666667,
+            "end_time": 2726.8333333333335,
+            "duration": 2.216666666666667
+        },
+        {
+            "sequence_id": 265,
+            "start_frame": 163610,
+            "end_frame": 163726,
+            "start_time": 2726.8333333333335,
+            "end_time": 2728.766666666667,
+            "duration": 1.9333333333333333
+        },
+        {
+            "sequence_id": 266,
+            "start_frame": 163726,
+            "end_frame": 163865,
+            "start_time": 2728.766666666667,
+            "end_time": 2731.0833333333335,
+            "duration": 2.316666666666667
+        },
+        {
+            "sequence_id": 267,
+            "start_frame": 163865,
+            "end_frame": 163949,
+            "start_time": 2731.0833333333335,
+            "end_time": 2732.483333333333,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 268,
+            "start_frame": 163949,
+            "end_frame": 164522,
+            "start_time": 2732.483333333333,
+            "end_time": 2742.0333333333333,
+            "duration": 9.55
+        },
+        {
+            "sequence_id": 269,
+            "start_frame": 164522,
+            "end_frame": 164548,
+            "start_time": 2742.0333333333333,
+            "end_time": 2742.4666666666667,
+            "duration": 0.43333333333333335
+        },
+        {
+            "sequence_id": 270,
+            "start_frame": 164548,
+            "end_frame": 164909,
+            "start_time": 2742.4666666666667,
+            "end_time": 2748.483333333333,
+            "duration": 6.016666666666667
+        },
+        {
+            "sequence_id": 271,
+            "start_frame": 164909,
+            "end_frame": 165040,
+            "start_time": 2748.483333333333,
+            "end_time": 2750.6666666666665,
+            "duration": 2.183333333333333
+        },
+        {
+            "sequence_id": 272,
+            "start_frame": 165040,
+            "end_frame": 165278,
+            "start_time": 2750.6666666666665,
+            "end_time": 2754.633333333333,
+            "duration": 3.966666666666667
+        },
+        {
+            "sequence_id": 273,
+            "start_frame": 165278,
+            "end_frame": 169747,
+            "start_time": 2754.633333333333,
+            "end_time": 2829.116666666667,
+            "duration": 74.48333333333333
+        },
+        {
+            "sequence_id": 274,
+            "start_frame": 169747,
+            "end_frame": 173932,
+            "start_time": 2829.116666666667,
+            "end_time": 2898.866666666667,
+            "duration": 69.75
+        },
+        {
+            "sequence_id": 275,
+            "start_frame": 173932,
+            "end_frame": 174167,
+            "start_time": 2898.866666666667,
+            "end_time": 2902.7833333333333,
+            "duration": 3.9166666666666665
+        },
+        {
+            "sequence_id": 276,
+            "start_frame": 174167,
+            "end_frame": 174293,
+            "start_time": 2902.7833333333333,
+            "end_time": 2904.883333333333,
+            "duration": 2.1
+        },
+        {
+            "sequence_id": 277,
+            "start_frame": 174293,
+            "end_frame": 174952,
+            "start_time": 2904.883333333333,
+            "end_time": 2915.866666666667,
+            "duration": 10.983333333333333
+        },
+        {
+            "sequence_id": 278,
+            "start_frame": 174952,
+            "end_frame": 175727,
+            "start_time": 2915.866666666667,
+            "end_time": 2928.7833333333333,
+            "duration": 12.916666666666666
+        },
+        {
+            "sequence_id": 279,
+            "start_frame": 175727,
+            "end_frame": 175748,
+            "start_time": 2928.7833333333333,
+            "end_time": 2929.133333333333,
+            "duration": 0.35
+        },
+        {
+            "sequence_id": 280,
+            "start_frame": 175748,
+            "end_frame": 175768,
+            "start_time": 2929.133333333333,
+            "end_time": 2929.4666666666667,
+            "duration": 0.3333333333333333
+        },
+        {
+            "sequence_id": 281,
+            "start_frame": 175768,
+            "end_frame": 175994,
+            "start_time": 2929.4666666666667,
+            "end_time": 2933.233333333333,
+            "duration": 3.7666666666666666
+        },
+        {
+            "sequence_id": 282,
+            "start_frame": 175994,
+            "end_frame": 176085,
+            "start_time": 2933.233333333333,
+            "end_time": 2934.75,
+            "duration": 1.5166666666666666
+        },
+        {
+            "sequence_id": 283,
+            "start_frame": 176085,
+            "end_frame": 176260,
+            "start_time": 2934.75,
+            "end_time": 2937.6666666666665,
+            "duration": 2.9166666666666665
+        },
+        {
+            "sequence_id": 284,
+            "start_frame": 176260,
+            "end_frame": 176441,
+            "start_time": 2937.6666666666665,
+            "end_time": 2940.6833333333334,
+            "duration": 3.0166666666666666
+        },
+        {
+            "sequence_id": 285,
+            "start_frame": 176441,
+            "end_frame": 177470,
+            "start_time": 2940.6833333333334,
+            "end_time": 2957.8333333333335,
+            "duration": 17.15
+        },
+        {
+            "sequence_id": 286,
+            "start_frame": 177470,
+            "end_frame": 178096,
+            "start_time": 2957.8333333333335,
+            "end_time": 2968.266666666667,
+            "duration": 10.433333333333334
+        },
+        {
+            "sequence_id": 287,
+            "start_frame": 178096,
+            "end_frame": 178238,
+            "start_time": 2968.266666666667,
+            "end_time": 2970.633333333333,
+            "duration": 2.3666666666666667
+        },
+        {
+            "sequence_id": 288,
+            "start_frame": 178238,
+            "end_frame": 179246,
+            "start_time": 2970.633333333333,
+            "end_time": 2987.4333333333334,
+            "duration": 16.8
+        },
+        {
+            "sequence_id": 289,
+            "start_frame": 179246,
+            "end_frame": 180009,
+            "start_time": 2987.4333333333334,
+            "end_time": 3000.15,
+            "duration": 12.716666666666667
+        },
+        {
+            "sequence_id": 290,
+            "start_frame": 180009,
+            "end_frame": 180206,
+            "start_time": 3000.15,
+            "end_time": 3003.4333333333334,
+            "duration": 3.283333333333333
+        },
+        {
+            "sequence_id": 291,
+            "start_frame": 180206,
+            "end_frame": 180361,
+            "start_time": 3003.4333333333334,
+            "end_time": 3006.016666666667,
+            "duration": 2.5833333333333335
+        },
+        {
+            "sequence_id": 292,
+            "start_frame": 180361,
+            "end_frame": 180480,
+            "start_time": 3006.016666666667,
+            "end_time": 3008.0,
+            "duration": 1.9833333333333334
+        },
+        {
+            "sequence_id": 293,
+            "start_frame": 180480,
+            "end_frame": 180636,
+            "start_time": 3008.0,
+            "end_time": 3010.6,
+            "duration": 2.6
+        },
+        {
+            "sequence_id": 294,
+            "start_frame": 180636,
+            "end_frame": 186262,
+            "start_time": 3010.6,
+            "end_time": 3104.366666666667,
+            "duration": 93.76666666666667
+        },
+        {
+            "sequence_id": 295,
+            "start_frame": 186262,
+            "end_frame": 188127,
+            "start_time": 3104.366666666667,
+            "end_time": 3135.45,
+            "duration": 31.083333333333332
+        },
+        {
+            "sequence_id": 296,
+            "start_frame": 188127,
+            "end_frame": 188147,
+            "start_time": 3135.45,
+            "end_time": 3135.7833333333333,
+            "duration": 0.3333333333333333
+        },
+        {
+            "sequence_id": 297,
+            "start_frame": 188147,
+            "end_frame": 188323,
+            "start_time": 3135.7833333333333,
+            "end_time": 3138.7166666666667,
+            "duration": 2.933333333333333
+        },
+        {
+            "sequence_id": 298,
+            "start_frame": 188323,
+            "end_frame": 190655,
+            "start_time": 3138.7166666666667,
+            "end_time": 3177.5833333333335,
+            "duration": 38.86666666666667
+        },
+        {
+            "sequence_id": 299,
+            "start_frame": 190655,
+            "end_frame": 191823,
+            "start_time": 3177.5833333333335,
+            "end_time": 3197.05,
+            "duration": 19.466666666666665
+        },
+        {
+            "sequence_id": 300,
+            "start_frame": 191823,
+            "end_frame": 192063,
+            "start_time": 3197.05,
+            "end_time": 3201.05,
+            "duration": 4.0
+        },
+        {
+            "sequence_id": 301,
+            "start_frame": 192063,
+            "end_frame": 192103,
+            "start_time": 3201.05,
+            "end_time": 3201.7166666666667,
+            "duration": 0.6666666666666666
+        },
+        {
+            "sequence_id": 302,
+            "start_frame": 192103,
+            "end_frame": 192160,
+            "start_time": 3201.7166666666667,
+            "end_time": 3202.6666666666665,
+            "duration": 0.95
+        },
+        {
+            "sequence_id": 303,
+            "start_frame": 192160,
+            "end_frame": 199220,
+            "start_time": 3202.6666666666665,
+            "end_time": 3320.3333333333335,
+            "duration": 117.66666666666667
+        },
+        {
+            "sequence_id": 304,
+            "start_frame": 199220,
+            "end_frame": 199910,
+            "start_time": 3320.3333333333335,
+            "end_time": 3331.8333333333335,
+            "duration": 11.5
+        },
+        {
+            "sequence_id": 305,
+            "start_frame": 199910,
+            "end_frame": 200017,
+            "start_time": 3331.8333333333335,
+            "end_time": 3333.616666666667,
+            "duration": 1.7833333333333334
+        },
+        {
+            "sequence_id": 306,
+            "start_frame": 200017,
+            "end_frame": 200105,
+            "start_time": 3333.616666666667,
+            "end_time": 3335.0833333333335,
+            "duration": 1.4666666666666666
+        },
+        {
+            "sequence_id": 307,
+            "start_frame": 200105,
+            "end_frame": 201013,
+            "start_time": 3335.0833333333335,
+            "end_time": 3350.2166666666667,
+            "duration": 15.133333333333333
+        },
+        {
+            "sequence_id": 308,
+            "start_frame": 201013,
+            "end_frame": 201060,
+            "start_time": 3350.2166666666667,
+            "end_time": 3351.0,
+            "duration": 0.7833333333333333
+        },
+        {
+            "sequence_id": 309,
+            "start_frame": 201060,
+            "end_frame": 201432,
+            "start_time": 3351.0,
+            "end_time": 3357.2,
+            "duration": 6.2
+        },
+        {
+            "sequence_id": 310,
+            "start_frame": 201432,
+            "end_frame": 201993,
+            "start_time": 3357.2,
+            "end_time": 3366.55,
+            "duration": 9.35
+        },
+        {
+            "sequence_id": 311,
+            "start_frame": 201993,
+            "end_frame": 202074,
+            "start_time": 3366.55,
+            "end_time": 3367.9,
+            "duration": 1.35
+        },
+        {
+            "sequence_id": 312,
+            "start_frame": 202074,
+            "end_frame": 203314,
+            "start_time": 3367.9,
+            "end_time": 3388.5666666666666,
+            "duration": 20.666666666666668
+        },
+        {
+            "sequence_id": 313,
+            "start_frame": 203314,
+            "end_frame": 203343,
+            "start_time": 3388.5666666666666,
+            "end_time": 3389.05,
+            "duration": 0.48333333333333334
+        },
+        {
+            "sequence_id": 314,
+            "start_frame": 203343,
+            "end_frame": 203388,
+            "start_time": 3389.05,
+            "end_time": 3389.8,
+            "duration": 0.75
+        },
+        {
+            "sequence_id": 315,
+            "start_frame": 203388,
+            "end_frame": 203452,
+            "start_time": 3389.8,
+            "end_time": 3390.866666666667,
+            "duration": 1.0666666666666667
+        },
+        {
+            "sequence_id": 316,
+            "start_frame": 203452,
+            "end_frame": 203773,
+            "start_time": 3390.866666666667,
+            "end_time": 3396.2166666666667,
+            "duration": 5.35
+        },
+        {
+            "sequence_id": 317,
+            "start_frame": 203773,
+            "end_frame": 203836,
+            "start_time": 3396.2166666666667,
+            "end_time": 3397.266666666667,
+            "duration": 1.05
+        },
+        {
+            "sequence_id": 318,
+            "start_frame": 203836,
+            "end_frame": 204150,
+            "start_time": 3397.266666666667,
+            "end_time": 3402.5,
+            "duration": 5.233333333333333
+        },
+        {
+            "sequence_id": 319,
+            "start_frame": 204150,
+            "end_frame": 204328,
+            "start_time": 3402.5,
+            "end_time": 3405.4666666666667,
+            "duration": 2.966666666666667
+        },
+        {
+            "sequence_id": 320,
+            "start_frame": 204328,
+            "end_frame": 204366,
+            "start_time": 3405.4666666666667,
+            "end_time": 3406.1,
+            "duration": 0.6333333333333333
+        },
+        {
+            "sequence_id": 321,
+            "start_frame": 204366,
+            "end_frame": 204411,
+            "start_time": 3406.1,
+            "end_time": 3406.85,
+            "duration": 0.75
+        },
+        {
+            "sequence_id": 322,
+            "start_frame": 204411,
+            "end_frame": 204575,
+            "start_time": 3406.85,
+            "end_time": 3409.5833333333335,
+            "duration": 2.7333333333333334
+        },
+        {
+            "sequence_id": 323,
+            "start_frame": 204575,
+            "end_frame": 204893,
+            "start_time": 3409.5833333333335,
+            "end_time": 3414.883333333333,
+            "duration": 5.3
+        },
+        {
+            "sequence_id": 324,
+            "start_frame": 204893,
+            "end_frame": 205314,
+            "start_time": 3414.883333333333,
+            "end_time": 3421.9,
+            "duration": 7.016666666666667
+        },
+        {
+            "sequence_id": 325,
+            "start_frame": 205314,
+            "end_frame": 205384,
+            "start_time": 3421.9,
+            "end_time": 3423.0666666666666,
+            "duration": 1.1666666666666667
+        },
+        {
+            "sequence_id": 326,
+            "start_frame": 205384,
+            "end_frame": 205535,
+            "start_time": 3423.0666666666666,
+            "end_time": 3425.5833333333335,
+            "duration": 2.5166666666666666
+        },
+        {
+            "sequence_id": 327,
+            "start_frame": 205535,
+            "end_frame": 206105,
+            "start_time": 3425.5833333333335,
+            "end_time": 3435.0833333333335,
+            "duration": 9.5
+        },
+        {
+            "sequence_id": 328,
+            "start_frame": 206105,
+            "end_frame": 206135,
+            "start_time": 3435.0833333333335,
+            "end_time": 3435.5833333333335,
+            "duration": 0.5
+        },
+        {
+            "sequence_id": 329,
+            "start_frame": 206135,
+            "end_frame": 213547,
+            "start_time": 3435.5833333333335,
+            "end_time": 3559.116666666667,
+            "duration": 123.53333333333333
+        },
+        {
+            "sequence_id": 330,
+            "start_frame": 213547,
+            "end_frame": 213793,
+            "start_time": 3559.116666666667,
+            "end_time": 3563.2166666666667,
+            "duration": 4.1
+        },
+        {
+            "sequence_id": 331,
+            "start_frame": 213793,
+            "end_frame": 213882,
+            "start_time": 3563.2166666666667,
+            "end_time": 3564.7,
+            "duration": 1.4833333333333334
+        },
+        {
+            "sequence_id": 332,
+            "start_frame": 213882,
+            "end_frame": 214025,
+            "start_time": 3564.7,
+            "end_time": 3567.0833333333335,
+            "duration": 2.3833333333333333
+        },
+        {
+            "sequence_id": 333,
+            "start_frame": 214025,
+            "end_frame": 215472,
+            "start_time": 3567.0833333333335,
+            "end_time": 3591.2,
+            "duration": 24.116666666666667
+        },
+        {
+            "sequence_id": 334,
+            "start_frame": 215472,
+            "end_frame": 215817,
+            "start_time": 3591.2,
+            "end_time": 3596.95,
+            "duration": 5.75
+        },
+        {
+            "sequence_id": 335,
+            "start_frame": 215817,
+            "end_frame": 215888,
+            "start_time": 3596.95,
+            "end_time": 3598.133333333333,
+            "duration": 1.1833333333333333
+        },
+        {
+            "sequence_id": 336,
+            "start_frame": 215888,
+            "end_frame": 216413,
+            "start_time": 3598.133333333333,
+            "end_time": 3606.883333333333,
+            "duration": 8.75
+        },
+        {
+            "sequence_id": 337,
+            "start_frame": 216413,
+            "end_frame": 217114,
+            "start_time": 3606.883333333333,
+            "end_time": 3618.5666666666666,
+            "duration": 11.683333333333334
+        },
+        {
+            "sequence_id": 338,
+            "start_frame": 217114,
+            "end_frame": 217553,
+            "start_time": 3618.5666666666666,
+            "end_time": 3625.883333333333,
+            "duration": 7.316666666666666
+        },
+        {
+            "sequence_id": 339,
+            "start_frame": 217553,
+            "end_frame": 217939,
+            "start_time": 3625.883333333333,
+            "end_time": 3632.3166666666666,
+            "duration": 6.433333333333334
+        },
+        {
+            "sequence_id": 340,
+            "start_frame": 217939,
+            "end_frame": 218426,
+            "start_time": 3632.3166666666666,
+            "end_time": 3640.4333333333334,
+            "duration": 8.116666666666667
+        },
+        {
+            "sequence_id": 341,
+            "start_frame": 218426,
+            "end_frame": 218652,
+            "start_time": 3640.4333333333334,
+            "end_time": 3644.2,
+            "duration": 3.7666666666666666
+        },
+        {
+            "sequence_id": 342,
+            "start_frame": 218652,
+            "end_frame": 219653,
+            "start_time": 3644.2,
+            "end_time": 3660.883333333333,
+            "duration": 16.683333333333334
+        },
+        {
+            "sequence_id": 343,
+            "start_frame": 219653,
+            "end_frame": 219964,
+            "start_time": 3660.883333333333,
+            "end_time": 3666.0666666666666,
+            "duration": 5.183333333333334
+        },
+        {
+            "sequence_id": 344,
+            "start_frame": 219964,
+            "end_frame": 223009,
+            "start_time": 3666.0666666666666,
+            "end_time": 3716.8166666666666,
+            "duration": 50.75
+        },
+        {
+            "sequence_id": 345,
+            "start_frame": 223009,
+            "end_frame": 223138,
+            "start_time": 3716.8166666666666,
+            "end_time": 3718.9666666666667,
+            "duration": 2.15
+        },
+        {
+            "sequence_id": 346,
+            "start_frame": 223138,
+            "end_frame": 223599,
+            "start_time": 3718.9666666666667,
+            "end_time": 3726.65,
+            "duration": 7.683333333333334
+        },
+        {
+            "sequence_id": 347,
+            "start_frame": 223599,
+            "end_frame": 223930,
+            "start_time": 3726.65,
+            "end_time": 3732.1666666666665,
+            "duration": 5.516666666666667
+        },
+        {
+            "sequence_id": 348,
+            "start_frame": 223930,
+            "end_frame": 225050,
+            "start_time": 3732.1666666666665,
+            "end_time": 3750.8333333333335,
+            "duration": 18.666666666666668
+        },
+        {
+            "sequence_id": 349,
+            "start_frame": 225050,
+            "end_frame": 226106,
+            "start_time": 3750.8333333333335,
+            "end_time": 3768.4333333333334,
+            "duration": 17.6
+        },
+        {
+            "sequence_id": 350,
+            "start_frame": 226106,
+            "end_frame": 226147,
+            "start_time": 3768.4333333333334,
+            "end_time": 3769.116666666667,
+            "duration": 0.6833333333333333
+        },
+        {
+            "sequence_id": 351,
+            "start_frame": 226147,
+            "end_frame": 226217,
+            "start_time": 3769.116666666667,
+            "end_time": 3770.2833333333333,
+            "duration": 1.1666666666666667
+        },
+        {
+            "sequence_id": 352,
+            "start_frame": 226217,
+            "end_frame": 226414,
+            "start_time": 3770.2833333333333,
+            "end_time": 3773.5666666666666,
+            "duration": 3.283333333333333
+        },
+        {
+            "sequence_id": 353,
+            "start_frame": 226414,
+            "end_frame": 226763,
+            "start_time": 3773.5666666666666,
+            "end_time": 3779.383333333333,
+            "duration": 5.816666666666666
+        },
+        {
+            "sequence_id": 354,
+            "start_frame": 226763,
+            "end_frame": 226813,
+            "start_time": 3779.383333333333,
+            "end_time": 3780.2166666666667,
+            "duration": 0.8333333333333334
+        },
+        {
+            "sequence_id": 355,
+            "start_frame": 226813,
+            "end_frame": 228153,
+            "start_time": 3780.2166666666667,
+            "end_time": 3802.55,
+            "duration": 22.333333333333332
+        },
+        {
+            "sequence_id": 356,
+            "start_frame": 228153,
+            "end_frame": 231196,
+            "start_time": 3802.55,
+            "end_time": 3853.266666666667,
+            "duration": 50.71666666666667
+        },
+        {
+            "sequence_id": 357,
+            "start_frame": 231196,
+            "end_frame": 232931,
+            "start_time": 3853.266666666667,
+            "end_time": 3882.1833333333334,
+            "duration": 28.916666666666668
+        },
+        {
+            "sequence_id": 358,
+            "start_frame": 232931,
+            "end_frame": 233167,
+            "start_time": 3882.1833333333334,
+            "end_time": 3886.116666666667,
+            "duration": 3.933333333333333
+        },
+        {
+            "sequence_id": 359,
+            "start_frame": 233167,
+            "end_frame": 234530,
+            "start_time": 3886.116666666667,
+            "end_time": 3908.8333333333335,
+            "duration": 22.716666666666665
+        },
+        {
+            "sequence_id": 360,
+            "start_frame": 234530,
+            "end_frame": 235482,
+            "start_time": 3908.8333333333335,
+            "end_time": 3924.7,
+            "duration": 15.866666666666667
+        },
+        {
+            "sequence_id": 361,
+            "start_frame": 235482,
+            "end_frame": 236885,
+            "start_time": 3924.7,
+            "end_time": 3948.0833333333335,
+            "duration": 23.383333333333333
+        },
+        {
+            "sequence_id": 362,
+            "start_frame": 236885,
+            "end_frame": 236912,
+            "start_time": 3948.0833333333335,
+            "end_time": 3948.5333333333333,
+            "duration": 0.45
+        },
+        {
+            "sequence_id": 363,
+            "start_frame": 236912,
+            "end_frame": 237100,
+            "start_time": 3948.5333333333333,
+            "end_time": 3951.6666666666665,
+            "duration": 3.1333333333333333
+        },
+        {
+            "sequence_id": 364,
+            "start_frame": 237100,
+            "end_frame": 237233,
+            "start_time": 3951.6666666666665,
+            "end_time": 3953.883333333333,
+            "duration": 2.216666666666667
+        },
+        {
+            "sequence_id": 365,
+            "start_frame": 237233,
+            "end_frame": 237502,
+            "start_time": 3953.883333333333,
+            "end_time": 3958.366666666667,
+            "duration": 4.483333333333333
+        },
+        {
+            "sequence_id": 366,
+            "start_frame": 237502,
+            "end_frame": 237541,
+            "start_time": 3958.366666666667,
+            "end_time": 3959.016666666667,
+            "duration": 0.65
+        },
+        {
+            "sequence_id": 367,
+            "start_frame": 237541,
+            "end_frame": 237572,
+            "start_time": 3959.016666666667,
+            "end_time": 3959.5333333333333,
+            "duration": 0.5166666666666667
+        },
+        {
+            "sequence_id": 368,
+            "start_frame": 237572,
+            "end_frame": 237603,
+            "start_time": 3959.5333333333333,
+            "end_time": 3960.05,
+            "duration": 0.5166666666666667
+        },
+        {
+            "sequence_id": 369,
+            "start_frame": 237603,
+            "end_frame": 237685,
+            "start_time": 3960.05,
+            "end_time": 3961.4166666666665,
+            "duration": 1.3666666666666667
+        },
+        {
+            "sequence_id": 370,
+            "start_frame": 237685,
+            "end_frame": 237921,
+            "start_time": 3961.4166666666665,
+            "end_time": 3965.35,
+            "duration": 3.933333333333333
+        },
+        {
+            "sequence_id": 371,
+            "start_frame": 237921,
+            "end_frame": 238396,
+            "start_time": 3965.35,
+            "end_time": 3973.266666666667,
+            "duration": 7.916666666666667
+        },
+        {
+            "sequence_id": 372,
+            "start_frame": 238396,
+            "end_frame": 240881,
+            "start_time": 3973.266666666667,
+            "end_time": 4014.6833333333334,
+            "duration": 41.416666666666664
+        },
+        {
+            "sequence_id": 373,
+            "start_frame": 240881,
+            "end_frame": 241049,
+            "start_time": 4014.6833333333334,
+            "end_time": 4017.483333333333,
+            "duration": 2.8
+        },
+        {
+            "sequence_id": 374,
+            "start_frame": 241049,
+            "end_frame": 241307,
+            "start_time": 4017.483333333333,
+            "end_time": 4021.7833333333333,
+            "duration": 4.3
+        },
+        {
+            "sequence_id": 375,
+            "start_frame": 241307,
+            "end_frame": 241326,
+            "start_time": 4021.7833333333333,
+            "end_time": 4022.1,
+            "duration": 0.31666666666666665
+        },
+        {
+            "sequence_id": 376,
+            "start_frame": 241326,
+            "end_frame": 241397,
+            "start_time": 4022.1,
+            "end_time": 4023.2833333333333,
+            "duration": 1.1833333333333333
+        },
+        {
+            "sequence_id": 377,
+            "start_frame": 241397,
+            "end_frame": 241502,
+            "start_time": 4023.2833333333333,
+            "end_time": 4025.0333333333333,
+            "duration": 1.75
+        },
+        {
+            "sequence_id": 378,
+            "start_frame": 241502,
+            "end_frame": 242821,
+            "start_time": 4025.0333333333333,
+            "end_time": 4047.016666666667,
+            "duration": 21.983333333333334
+        },
+        {
+            "sequence_id": 379,
+            "start_frame": 242821,
+            "end_frame": 242923,
+            "start_time": 4047.016666666667,
+            "end_time": 4048.7166666666667,
+            "duration": 1.7
+        },
+        {
+            "sequence_id": 380,
+            "start_frame": 242923,
+            "end_frame": 243031,
+            "start_time": 4048.7166666666667,
+            "end_time": 4050.516666666667,
+            "duration": 1.8
+        },
+        {
+            "sequence_id": 381,
+            "start_frame": 243031,
+            "end_frame": 243119,
+            "start_time": 4050.516666666667,
+            "end_time": 4051.983333333333,
+            "duration": 1.4666666666666666
+        },
+        {
+            "sequence_id": 382,
+            "start_frame": 243119,
+            "end_frame": 243391,
+            "start_time": 4051.983333333333,
+            "end_time": 4056.516666666667,
+            "duration": 4.533333333333333
+        },
+        {
+            "sequence_id": 383,
+            "start_frame": 243391,
+            "end_frame": 243992,
+            "start_time": 4056.516666666667,
+            "end_time": 4066.5333333333333,
+            "duration": 10.016666666666667
+        },
+        {
+            "sequence_id": 384,
+            "start_frame": 243992,
+            "end_frame": 244682,
+            "start_time": 4066.5333333333333,
+            "end_time": 4078.0333333333333,
+            "duration": 11.5
+        },
+        {
+            "sequence_id": 385,
+            "start_frame": 244682,
+            "end_frame": 245453,
+            "start_time": 4078.0333333333333,
+            "end_time": 4090.883333333333,
+            "duration": 12.85
+        },
+        {
+            "sequence_id": 386,
+            "start_frame": 245453,
+            "end_frame": 246586,
+            "start_time": 4090.883333333333,
+            "end_time": 4109.766666666666,
+            "duration": 18.883333333333333
+        },
+        {
+            "sequence_id": 387,
+            "start_frame": 246586,
+            "end_frame": 247767,
+            "start_time": 4109.766666666666,
+            "end_time": 4129.45,
+            "duration": 19.683333333333334
+        },
+        {
+            "sequence_id": 388,
+            "start_frame": 247767,
+            "end_frame": 247919,
+            "start_time": 4129.45,
+            "end_time": 4131.983333333334,
+            "duration": 2.533333333333333
+        },
+        {
+            "sequence_id": 389,
+            "start_frame": 247919,
+            "end_frame": 248018,
+            "start_time": 4131.983333333334,
+            "end_time": 4133.633333333333,
+            "duration": 1.65
+        },
+        {
+            "sequence_id": 390,
+            "start_frame": 248018,
+            "end_frame": 248685,
+            "start_time": 4133.633333333333,
+            "end_time": 4144.75,
+            "duration": 11.116666666666667
+        },
+        {
+            "sequence_id": 391,
+            "start_frame": 248685,
+            "end_frame": 248965,
+            "start_time": 4144.75,
+            "end_time": 4149.416666666667,
+            "duration": 4.666666666666667
+        },
+        {
+            "sequence_id": 392,
+            "start_frame": 248965,
+            "end_frame": 249183,
+            "start_time": 4149.416666666667,
+            "end_time": 4153.05,
+            "duration": 3.6333333333333333
+        },
+        {
+            "sequence_id": 393,
+            "start_frame": 249183,
+            "end_frame": 249303,
+            "start_time": 4153.05,
+            "end_time": 4155.05,
+            "duration": 2.0
+        },
+        {
+            "sequence_id": 394,
+            "start_frame": 249303,
+            "end_frame": 249578,
+            "start_time": 4155.05,
+            "end_time": 4159.633333333333,
+            "duration": 4.583333333333333
+        },
+        {
+            "sequence_id": 395,
+            "start_frame": 249578,
+            "end_frame": 249917,
+            "start_time": 4159.633333333333,
+            "end_time": 4165.283333333334,
+            "duration": 5.65
+        },
+        {
+            "sequence_id": 396,
+            "start_frame": 249917,
+            "end_frame": 251382,
+            "start_time": 4165.283333333334,
+            "end_time": 4189.7,
+            "duration": 24.416666666666668
+        },
+        {
+            "sequence_id": 397,
+            "start_frame": 251382,
+            "end_frame": 252506,
+            "start_time": 4189.7,
+            "end_time": 4208.433333333333,
+            "duration": 18.733333333333334
+        },
+        {
+            "sequence_id": 398,
+            "start_frame": 252506,
+            "end_frame": 252543,
+            "start_time": 4208.433333333333,
+            "end_time": 4209.05,
+            "duration": 0.6166666666666667
+        },
+        {
+            "sequence_id": 399,
+            "start_frame": 252543,
+            "end_frame": 254518,
+            "start_time": 4209.05,
+            "end_time": 4241.966666666666,
+            "duration": 32.916666666666664
+        },
+        {
+            "sequence_id": 400,
+            "start_frame": 254518,
+            "end_frame": 255463,
+            "start_time": 4241.966666666666,
+            "end_time": 4257.716666666666,
+            "duration": 15.75
+        },
+        {
+            "sequence_id": 401,
+            "start_frame": 255463,
+            "end_frame": 256246,
+            "start_time": 4257.716666666666,
+            "end_time": 4270.766666666666,
+            "duration": 13.05
+        },
+        {
+            "sequence_id": 402,
+            "start_frame": 256246,
+            "end_frame": 256853,
+            "start_time": 4270.766666666666,
+            "end_time": 4280.883333333333,
+            "duration": 10.116666666666667
+        },
+        {
+            "sequence_id": 403,
+            "start_frame": 256853,
+            "end_frame": 257050,
+            "start_time": 4280.883333333333,
+            "end_time": 4284.166666666667,
+            "duration": 3.283333333333333
+        },
+        {
+            "sequence_id": 404,
+            "start_frame": 257050,
+            "end_frame": 257287,
+            "start_time": 4284.166666666667,
+            "end_time": 4288.116666666667,
+            "duration": 3.95
+        },
+        {
+            "sequence_id": 405,
+            "start_frame": 257287,
+            "end_frame": 257354,
+            "start_time": 4288.116666666667,
+            "end_time": 4289.233333333334,
+            "duration": 1.1166666666666667
+        },
+        {
+            "sequence_id": 406,
+            "start_frame": 257354,
+            "end_frame": 257399,
+            "start_time": 4289.233333333334,
+            "end_time": 4289.983333333334,
+            "duration": 0.75
+        },
+        {
+            "sequence_id": 407,
+            "start_frame": 257399,
+            "end_frame": 257679,
+            "start_time": 4289.983333333334,
+            "end_time": 4294.65,
+            "duration": 4.666666666666667
+        },
+        {
+            "sequence_id": 408,
+            "start_frame": 257679,
+            "end_frame": 261411,
+            "start_time": 4294.65,
+            "end_time": 4356.85,
+            "duration": 62.2
+        },
+        {
+            "sequence_id": 409,
+            "start_frame": 261411,
+            "end_frame": 261828,
+            "start_time": 4356.85,
+            "end_time": 4363.8,
+            "duration": 6.95
+        },
+        {
+            "sequence_id": 410,
+            "start_frame": 261828,
+            "end_frame": 261964,
+            "start_time": 4363.8,
+            "end_time": 4366.066666666667,
+            "duration": 2.2666666666666666
+        },
+        {
+            "sequence_id": 411,
+            "start_frame": 261964,
+            "end_frame": 262274,
+            "start_time": 4366.066666666667,
+            "end_time": 4371.233333333334,
+            "duration": 5.166666666666667
+        },
+        {
+            "sequence_id": 412,
+            "start_frame": 262274,
+            "end_frame": 262525,
+            "start_time": 4371.233333333334,
+            "end_time": 4375.416666666667,
+            "duration": 4.183333333333334
+        },
+        {
+            "sequence_id": 413,
+            "start_frame": 262525,
+            "end_frame": 264496,
+            "start_time": 4375.416666666667,
+            "end_time": 4408.266666666666,
+            "duration": 32.85
+        },
+        {
+            "sequence_id": 414,
+            "start_frame": 264496,
+            "end_frame": 264771,
+            "start_time": 4408.266666666666,
+            "end_time": 4412.85,
+            "duration": 4.583333333333333
+        },
+        {
+            "sequence_id": 415,
+            "start_frame": 264771,
+            "end_frame": 265791,
+            "start_time": 4412.85,
+            "end_time": 4429.85,
+            "duration": 17.0
+        },
+        {
+            "sequence_id": 416,
+            "start_frame": 265791,
+            "end_frame": 267264,
+            "start_time": 4429.85,
+            "end_time": 4454.4,
+            "duration": 24.55
+        },
+        {
+            "sequence_id": 417,
+            "start_frame": 267264,
+            "end_frame": 269728,
+            "start_time": 4454.4,
+            "end_time": 4495.466666666666,
+            "duration": 41.06666666666667
+        },
+        {
+            "sequence_id": 418,
+            "start_frame": 269728,
+            "end_frame": 269863,
+            "start_time": 4495.466666666666,
+            "end_time": 4497.716666666666,
+            "duration": 2.25
+        },
+        {
+            "sequence_id": 419,
+            "start_frame": 269863,
+            "end_frame": 270321,
+            "start_time": 4497.716666666666,
+            "end_time": 4505.35,
+            "duration": 7.633333333333334
+        },
+        {
+            "sequence_id": 420,
+            "start_frame": 270321,
+            "end_frame": 270570,
+            "start_time": 4505.35,
+            "end_time": 4509.5,
+            "duration": 4.15
+        },
+        {
+            "sequence_id": 421,
+            "start_frame": 270570,
+            "end_frame": 272583,
+            "start_time": 4509.5,
+            "end_time": 4543.05,
+            "duration": 33.55
+        },
+        {
+            "sequence_id": 422,
+            "start_frame": 272583,
+            "end_frame": 272762,
+            "start_time": 4543.05,
+            "end_time": 4546.033333333334,
+            "duration": 2.9833333333333334
+        },
+        {
+            "sequence_id": 423,
+            "start_frame": 272762,
+            "end_frame": 273530,
+            "start_time": 4546.033333333334,
+            "end_time": 4558.833333333333,
+            "duration": 12.8
+        },
+        {
+            "sequence_id": 424,
+            "start_frame": 273530,
+            "end_frame": 274106,
+            "start_time": 4558.833333333333,
+            "end_time": 4568.433333333333,
+            "duration": 9.6
+        },
+        {
+            "sequence_id": 425,
+            "start_frame": 274106,
+            "end_frame": 274397,
+            "start_time": 4568.433333333333,
+            "end_time": 4573.283333333334,
+            "duration": 4.85
+        },
+        {
+            "sequence_id": 426,
+            "start_frame": 274397,
+            "end_frame": 275312,
+            "start_time": 4573.283333333334,
+            "end_time": 4588.533333333334,
+            "duration": 15.25
+        },
+        {
+            "sequence_id": 427,
+            "start_frame": 275312,
+            "end_frame": 275540,
+            "start_time": 4588.533333333334,
+            "end_time": 4592.333333333333,
+            "duration": 3.8
+        },
+        {
+            "sequence_id": 428,
+            "start_frame": 275540,
+            "end_frame": 275721,
+            "start_time": 4592.333333333333,
+            "end_time": 4595.35,
+            "duration": 3.0166666666666666
+        },
+        {
+            "sequence_id": 429,
+            "start_frame": 275721,
+            "end_frame": 275770,
+            "start_time": 4595.35,
+            "end_time": 4596.166666666667,
+            "duration": 0.8166666666666667
+        },
+        {
+            "sequence_id": 430,
+            "start_frame": 275770,
+            "end_frame": 275947,
+            "start_time": 4596.166666666667,
+            "end_time": 4599.116666666667,
+            "duration": 2.95
+        },
+        {
+            "sequence_id": 431,
+            "start_frame": 275947,
+            "end_frame": 276289,
+            "start_time": 4599.116666666667,
+            "end_time": 4604.816666666667,
+            "duration": 5.7
+        },
+        {
+            "sequence_id": 432,
+            "start_frame": 276289,
+            "end_frame": 276599,
+            "start_time": 4604.816666666667,
+            "end_time": 4609.983333333334,
+            "duration": 5.166666666666667
+        },
+        {
+            "sequence_id": 433,
+            "start_frame": 276599,
+            "end_frame": 276849,
+            "start_time": 4609.983333333334,
+            "end_time": 4614.15,
+            "duration": 4.166666666666667
+        },
+        {
+            "sequence_id": 434,
+            "start_frame": 276849,
+            "end_frame": 277113,
+            "start_time": 4614.15,
+            "end_time": 4618.55,
+            "duration": 4.4
+        },
+        {
+            "sequence_id": 435,
+            "start_frame": 277113,
+            "end_frame": 277512,
+            "start_time": 4618.55,
+            "end_time": 4625.2,
+            "duration": 6.65
+        },
+        {
+            "sequence_id": 436,
+            "start_frame": 277512,
+            "end_frame": 277957,
+            "start_time": 4625.2,
+            "end_time": 4632.616666666667,
+            "duration": 7.416666666666667
+        },
+        {
+            "sequence_id": 437,
+            "start_frame": 277957,
+            "end_frame": 278305,
+            "start_time": 4632.616666666667,
+            "end_time": 4638.416666666667,
+            "duration": 5.8
+        },
+        {
+            "sequence_id": 438,
+            "start_frame": 278305,
+            "end_frame": 278389,
+            "start_time": 4638.416666666667,
+            "end_time": 4639.816666666667,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 439,
+            "start_frame": 278389,
+            "end_frame": 278409,
+            "start_time": 4639.816666666667,
+            "end_time": 4640.15,
+            "duration": 0.3333333333333333
+        },
+        {
+            "sequence_id": 440,
+            "start_frame": 278409,
+            "end_frame": 278464,
+            "start_time": 4640.15,
+            "end_time": 4641.066666666667,
+            "duration": 0.9166666666666666
+        },
+        {
+            "sequence_id": 441,
+            "start_frame": 278464,
+            "end_frame": 278676,
+            "start_time": 4641.066666666667,
+            "end_time": 4644.6,
+            "duration": 3.533333333333333
+        },
+        {
+            "sequence_id": 442,
+            "start_frame": 278676,
+            "end_frame": 279132,
+            "start_time": 4644.6,
+            "end_time": 4652.2,
+            "duration": 7.6
+        },
+        {
+            "sequence_id": 443,
+            "start_frame": 279132,
+            "end_frame": 279609,
+            "start_time": 4652.2,
+            "end_time": 4660.15,
+            "duration": 7.95
+        },
+        {
+            "sequence_id": 444,
+            "start_frame": 279609,
+            "end_frame": 281032,
+            "start_time": 4660.15,
+            "end_time": 4683.866666666667,
+            "duration": 23.716666666666665
+        },
+        {
+            "sequence_id": 445,
+            "start_frame": 281032,
+            "end_frame": 283064,
+            "start_time": 4683.866666666667,
+            "end_time": 4717.733333333334,
+            "duration": 33.86666666666667
+        },
+        {
+            "sequence_id": 446,
+            "start_frame": 283064,
+            "end_frame": 283131,
+            "start_time": 4717.733333333334,
+            "end_time": 4718.85,
+            "duration": 1.1166666666666667
+        },
+        {
+            "sequence_id": 447,
+            "start_frame": 283131,
+            "end_frame": 283196,
+            "start_time": 4718.85,
+            "end_time": 4719.933333333333,
+            "duration": 1.0833333333333333
+        },
+        {
+            "sequence_id": 448,
+            "start_frame": 283196,
+            "end_frame": 283349,
+            "start_time": 4719.933333333333,
+            "end_time": 4722.483333333334,
+            "duration": 2.55
+        },
+        {
+            "sequence_id": 449,
+            "start_frame": 283349,
+            "end_frame": 283416,
+            "start_time": 4722.483333333334,
+            "end_time": 4723.6,
+            "duration": 1.1166666666666667
+        },
+        {
+            "sequence_id": 450,
+            "start_frame": 283416,
+            "end_frame": 283503,
+            "start_time": 4723.6,
+            "end_time": 4725.05,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 451,
+            "start_frame": 283503,
+            "end_frame": 283604,
+            "start_time": 4725.05,
+            "end_time": 4726.733333333334,
+            "duration": 1.6833333333333333
+        },
+        {
+            "sequence_id": 452,
+            "start_frame": 283604,
+            "end_frame": 283637,
+            "start_time": 4726.733333333334,
+            "end_time": 4727.283333333334,
+            "duration": 0.55
+        },
+        {
+            "sequence_id": 453,
+            "start_frame": 283637,
+            "end_frame": 283910,
+            "start_time": 4727.283333333334,
+            "end_time": 4731.833333333333,
+            "duration": 4.55
+        },
+        {
+            "sequence_id": 454,
+            "start_frame": 283910,
+            "end_frame": 283960,
+            "start_time": 4731.833333333333,
+            "end_time": 4732.666666666667,
+            "duration": 0.8333333333333334
+        },
+        {
+            "sequence_id": 455,
+            "start_frame": 283960,
+            "end_frame": 284043,
+            "start_time": 4732.666666666667,
+            "end_time": 4734.05,
+            "duration": 1.3833333333333333
+        },
+        {
+            "sequence_id": 456,
+            "start_frame": 284043,
+            "end_frame": 284271,
+            "start_time": 4734.05,
+            "end_time": 4737.85,
+            "duration": 3.8
+        },
+        {
+            "sequence_id": 457,
+            "start_frame": 284271,
+            "end_frame": 284604,
+            "start_time": 4737.85,
+            "end_time": 4743.4,
+            "duration": 5.55
+        },
+        {
+            "sequence_id": 458,
+            "start_frame": 284604,
+            "end_frame": 285252,
+            "start_time": 4743.4,
+            "end_time": 4754.2,
+            "duration": 10.8
+        },
+        {
+            "sequence_id": 459,
+            "start_frame": 285252,
+            "end_frame": 285350,
+            "start_time": 4754.2,
+            "end_time": 4755.833333333333,
+            "duration": 1.6333333333333333
+        },
+        {
+            "sequence_id": 460,
+            "start_frame": 285350,
+            "end_frame": 285417,
+            "start_time": 4755.833333333333,
+            "end_time": 4756.95,
+            "duration": 1.1166666666666667
+        },
+        {
+            "sequence_id": 461,
+            "start_frame": 285417,
+            "end_frame": 286196,
+            "start_time": 4756.95,
+            "end_time": 4769.933333333333,
+            "duration": 12.983333333333333
+        },
+        {
+            "sequence_id": 462,
+            "start_frame": 286196,
+            "end_frame": 286379,
+            "start_time": 4769.933333333333,
+            "end_time": 4772.983333333334,
+            "duration": 3.05
+        },
+        {
+            "sequence_id": 463,
+            "start_frame": 286379,
+            "end_frame": 287444,
+            "start_time": 4772.983333333334,
+            "end_time": 4790.733333333334,
+            "duration": 17.75
+        },
+        {
+            "sequence_id": 464,
+            "start_frame": 287444,
+            "end_frame": 288527,
+            "start_time": 4790.733333333334,
+            "end_time": 4808.783333333334,
+            "duration": 18.05
+        },
+        {
+            "sequence_id": 465,
+            "start_frame": 288527,
+            "end_frame": 288559,
+            "start_time": 4808.783333333334,
+            "end_time": 4809.316666666667,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 466,
+            "start_frame": 288559,
+            "end_frame": 288599,
+            "start_time": 4809.316666666667,
+            "end_time": 4809.983333333334,
+            "duration": 0.6666666666666666
+        },
+        {
+            "sequence_id": 467,
+            "start_frame": 288599,
+            "end_frame": 288614,
+            "start_time": 4809.983333333334,
+            "end_time": 4810.233333333334,
+            "duration": 0.25
+        },
+        {
+            "sequence_id": 468,
+            "start_frame": 288614,
+            "end_frame": 288641,
+            "start_time": 4810.233333333334,
+            "end_time": 4810.683333333333,
+            "duration": 0.45
+        },
+        {
+            "sequence_id": 469,
+            "start_frame": 288641,
+            "end_frame": 289253,
+            "start_time": 4810.683333333333,
+            "end_time": 4820.883333333333,
+            "duration": 10.2
+        },
+        {
+            "sequence_id": 470,
+            "start_frame": 289253,
+            "end_frame": 291795,
+            "start_time": 4820.883333333333,
+            "end_time": 4863.25,
+            "duration": 42.36666666666667
+        },
+        {
+            "sequence_id": 471,
+            "start_frame": 291795,
+            "end_frame": 292104,
+            "start_time": 4863.25,
+            "end_time": 4868.4,
+            "duration": 5.15
+        },
+        {
+            "sequence_id": 472,
+            "start_frame": 292104,
+            "end_frame": 294367,
+            "start_time": 4868.4,
+            "end_time": 4906.116666666667,
+            "duration": 37.71666666666667
+        },
+        {
+            "sequence_id": 473,
+            "start_frame": 294367,
+            "end_frame": 294936,
+            "start_time": 4906.116666666667,
+            "end_time": 4915.6,
+            "duration": 9.483333333333333
+        },
+        {
+            "sequence_id": 474,
+            "start_frame": 294936,
+            "end_frame": 295842,
+            "start_time": 4915.6,
+            "end_time": 4930.7,
+            "duration": 15.1
+        },
+        {
+            "sequence_id": 475,
+            "start_frame": 295842,
+            "end_frame": 298217,
+            "start_time": 4930.7,
+            "end_time": 4970.283333333334,
+            "duration": 39.583333333333336
+        },
+        {
+            "sequence_id": 476,
+            "start_frame": 298217,
+            "end_frame": 299986,
+            "start_time": 4970.283333333334,
+            "end_time": 4999.766666666666,
+            "duration": 29.483333333333334
+        },
+        {
+            "sequence_id": 477,
+            "start_frame": 299986,
+            "end_frame": 301340,
+            "start_time": 4999.766666666666,
+            "end_time": 5022.333333333333,
+            "duration": 22.566666666666666
+        },
+        {
+            "sequence_id": 478,
+            "start_frame": 301340,
+            "end_frame": 302732,
+            "start_time": 5022.333333333333,
+            "end_time": 5045.533333333334,
+            "duration": 23.2
+        },
+        {
+            "sequence_id": 479,
+            "start_frame": 302732,
+            "end_frame": 302831,
+            "start_time": 5045.533333333334,
+            "end_time": 5047.183333333333,
+            "duration": 1.65
+        },
+        {
+            "sequence_id": 480,
+            "start_frame": 302831,
+            "end_frame": 302895,
+            "start_time": 5047.183333333333,
+            "end_time": 5048.25,
+            "duration": 1.0666666666666667
+        },
+        {
+            "sequence_id": 481,
+            "start_frame": 302895,
+            "end_frame": 303217,
+            "start_time": 5048.25,
+            "end_time": 5053.616666666667,
+            "duration": 5.366666666666666
+        },
+        {
+            "sequence_id": 482,
+            "start_frame": 303217,
+            "end_frame": 303261,
+            "start_time": 5053.616666666667,
+            "end_time": 5054.35,
+            "duration": 0.7333333333333333
+        },
+        {
+            "sequence_id": 483,
+            "start_frame": 303261,
+            "end_frame": 303286,
+            "start_time": 5054.35,
+            "end_time": 5054.766666666666,
+            "duration": 0.4166666666666667
+        },
+        {
+            "sequence_id": 484,
+            "start_frame": 303286,
+            "end_frame": 303329,
+            "start_time": 5054.766666666666,
+            "end_time": 5055.483333333334,
+            "duration": 0.7166666666666667
+        },
+        {
+            "sequence_id": 485,
+            "start_frame": 303329,
+            "end_frame": 303379,
+            "start_time": 5055.483333333334,
+            "end_time": 5056.316666666667,
+            "duration": 0.8333333333333334
+        },
+        {
+            "sequence_id": 486,
+            "start_frame": 303379,
+            "end_frame": 303424,
+            "start_time": 5056.316666666667,
+            "end_time": 5057.066666666667,
+            "duration": 0.75
+        },
+        {
+            "sequence_id": 487,
+            "start_frame": 303424,
+            "end_frame": 303465,
+            "start_time": 5057.066666666667,
+            "end_time": 5057.75,
+            "duration": 0.6833333333333333
+        },
+        {
+            "sequence_id": 488,
+            "start_frame": 303465,
+            "end_frame": 303696,
+            "start_time": 5057.75,
+            "end_time": 5061.6,
+            "duration": 3.85
+        },
+        {
+            "sequence_id": 489,
+            "start_frame": 303696,
+            "end_frame": 304973,
+            "start_time": 5061.6,
+            "end_time": 5082.883333333333,
+            "duration": 21.283333333333335
+        },
+        {
+            "sequence_id": 490,
+            "start_frame": 304973,
+            "end_frame": 305334,
+            "start_time": 5082.883333333333,
+            "end_time": 5088.9,
+            "duration": 6.016666666666667
+        },
+        {
+            "sequence_id": 491,
+            "start_frame": 305334,
+            "end_frame": 305472,
+            "start_time": 5088.9,
+            "end_time": 5091.2,
+            "duration": 2.3
+        },
+        {
+            "sequence_id": 492,
+            "start_frame": 305472,
+            "end_frame": 305518,
+            "start_time": 5091.2,
+            "end_time": 5091.966666666666,
+            "duration": 0.7666666666666667
+        },
+        {
+            "sequence_id": 493,
+            "start_frame": 305518,
+            "end_frame": 305579,
+            "start_time": 5091.966666666666,
+            "end_time": 5092.983333333334,
+            "duration": 1.0166666666666666
+        },
+        {
+            "sequence_id": 494,
+            "start_frame": 305579,
+            "end_frame": 305634,
+            "start_time": 5092.983333333334,
+            "end_time": 5093.9,
+            "duration": 0.9166666666666666
+        },
+        {
+            "sequence_id": 495,
+            "start_frame": 305634,
+            "end_frame": 305662,
+            "start_time": 5093.9,
+            "end_time": 5094.366666666667,
+            "duration": 0.4666666666666667
+        },
+        {
+            "sequence_id": 496,
+            "start_frame": 305662,
+            "end_frame": 307711,
+            "start_time": 5094.366666666667,
+            "end_time": 5128.516666666666,
+            "duration": 34.15
+        },
+        {
+            "sequence_id": 497,
+            "start_frame": 307711,
+            "end_frame": 307744,
+            "start_time": 5128.516666666666,
+            "end_time": 5129.066666666667,
+            "duration": 0.55
+        },
+        {
+            "sequence_id": 498,
+            "start_frame": 307744,
+            "end_frame": 308745,
+            "start_time": 5129.066666666667,
+            "end_time": 5145.75,
+            "duration": 16.683333333333334
+        },
+        {
+            "sequence_id": 499,
+            "start_frame": 308745,
+            "end_frame": 308795,
+            "start_time": 5145.75,
+            "end_time": 5146.583333333333,
+            "duration": 0.8333333333333334
+        },
+        {
+            "sequence_id": 500,
+            "start_frame": 308795,
+            "end_frame": 310239,
+            "start_time": 5146.583333333333,
+            "end_time": 5170.65,
+            "duration": 24.066666666666666
+        },
+        {
+            "sequence_id": 501,
+            "start_frame": 310239,
+            "end_frame": 311867,
+            "start_time": 5170.65,
+            "end_time": 5197.783333333334,
+            "duration": 27.133333333333333
+        },
+        {
+            "sequence_id": 502,
+            "start_frame": 311867,
+            "end_frame": 312505,
+            "start_time": 5197.783333333334,
+            "end_time": 5208.416666666667,
+            "duration": 10.633333333333333
+        },
+        {
+            "sequence_id": 503,
+            "start_frame": 312505,
+            "end_frame": 313218,
+            "start_time": 5208.416666666667,
+            "end_time": 5220.3,
+            "duration": 11.883333333333333
+        },
+        {
+            "sequence_id": 504,
+            "start_frame": 313218,
+            "end_frame": 313247,
+            "start_time": 5220.3,
+            "end_time": 5220.783333333334,
+            "duration": 0.48333333333333334
+        },
+        {
+            "sequence_id": 505,
+            "start_frame": 313247,
+            "end_frame": 313319,
+            "start_time": 5220.783333333334,
+            "end_time": 5221.983333333334,
+            "duration": 1.2
+        },
+        {
+            "sequence_id": 506,
+            "start_frame": 313319,
+            "end_frame": 314588,
+            "start_time": 5221.983333333334,
+            "end_time": 5243.133333333333,
+            "duration": 21.15
+        },
+        {
+            "sequence_id": 507,
+            "start_frame": 314588,
+            "end_frame": 314699,
+            "start_time": 5243.133333333333,
+            "end_time": 5244.983333333334,
+            "duration": 1.85
+        },
+        {
+            "sequence_id": 508,
+            "start_frame": 314699,
+            "end_frame": 315553,
+            "start_time": 5244.983333333334,
+            "end_time": 5259.216666666666,
+            "duration": 14.233333333333333
+        },
+        {
+            "sequence_id": 509,
+            "start_frame": 315553,
+            "end_frame": 315640,
+            "start_time": 5259.216666666666,
+            "end_time": 5260.666666666667,
+            "duration": 1.45
+        },
+        {
+            "sequence_id": 510,
+            "start_frame": 315640,
+            "end_frame": 315755,
+            "start_time": 5260.666666666667,
+            "end_time": 5262.583333333333,
+            "duration": 1.9166666666666667
+        },
+        {
+            "sequence_id": 511,
+            "start_frame": 315755,
+            "end_frame": 315839,
+            "start_time": 5262.583333333333,
+            "end_time": 5263.983333333334,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 512,
+            "start_frame": 315839,
+            "end_frame": 316700,
+            "start_time": 5263.983333333334,
+            "end_time": 5278.333333333333,
+            "duration": 14.35
+        },
+        {
+            "sequence_id": 513,
+            "start_frame": 316700,
+            "end_frame": 317309,
+            "start_time": 5278.333333333333,
+            "end_time": 5288.483333333334,
+            "duration": 10.15
+        },
+        {
+            "sequence_id": 514,
+            "start_frame": 317309,
+            "end_frame": 318975,
+            "start_time": 5288.483333333334,
+            "end_time": 5316.25,
+            "duration": 27.766666666666666
+        },
+        {
+            "sequence_id": 515,
+            "start_frame": 318975,
+            "end_frame": 319001,
+            "start_time": 5316.25,
+            "end_time": 5316.683333333333,
+            "duration": 0.43333333333333335
+        },
+        {
+            "sequence_id": 516,
+            "start_frame": 319001,
+            "end_frame": 319022,
+            "start_time": 5316.683333333333,
+            "end_time": 5317.033333333334,
+            "duration": 0.35
+        },
+        {
+            "sequence_id": 517,
+            "start_frame": 319022,
+            "end_frame": 319068,
+            "start_time": 5317.033333333334,
+            "end_time": 5317.8,
+            "duration": 0.7666666666666667
+        },
+        {
+            "sequence_id": 518,
+            "start_frame": 319068,
+            "end_frame": 319671,
+            "start_time": 5317.8,
+            "end_time": 5327.85,
+            "duration": 10.05
+        },
+        {
+            "sequence_id": 519,
+            "start_frame": 319671,
+            "end_frame": 319725,
+            "start_time": 5327.85,
+            "end_time": 5328.75,
+            "duration": 0.9
+        },
+        {
+            "sequence_id": 520,
+            "start_frame": 319725,
+            "end_frame": 325597,
+            "start_time": 5328.75,
+            "end_time": 5426.616666666667,
+            "duration": 97.86666666666666
+        },
+        {
+            "sequence_id": 521,
+            "start_frame": 325597,
+            "end_frame": 328450,
+            "start_time": 5426.616666666667,
+            "end_time": 5474.166666666667,
+            "duration": 47.55
+        },
+        {
+            "sequence_id": 522,
+            "start_frame": 328450,
+            "end_frame": 330119,
+            "start_time": 5474.166666666667,
+            "end_time": 5501.983333333334,
+            "duration": 27.816666666666666
+        },
+        {
+            "sequence_id": 523,
+            "start_frame": 330119,
+            "end_frame": 332719,
+            "start_time": 5501.983333333334,
+            "end_time": 5545.316666666667,
+            "duration": 43.333333333333336
+        },
+        {
+            "sequence_id": 524,
+            "start_frame": 332719,
+            "end_frame": 332913,
+            "start_time": 5545.316666666667,
+            "end_time": 5548.55,
+            "duration": 3.2333333333333334
+        },
+        {
+            "sequence_id": 525,
+            "start_frame": 332913,
+            "end_frame": 334958,
+            "start_time": 5548.55,
+            "end_time": 5582.633333333333,
+            "duration": 34.083333333333336
+        },
+        {
+            "sequence_id": 526,
+            "start_frame": 334958,
+            "end_frame": 335335,
+            "start_time": 5582.633333333333,
+            "end_time": 5588.916666666667,
+            "duration": 6.283333333333333
+        },
+        {
+            "sequence_id": 527,
+            "start_frame": 335335,
+            "end_frame": 336055,
+            "start_time": 5588.916666666667,
+            "end_time": 5600.916666666667,
+            "duration": 12.0
+        },
+        {
+            "sequence_id": 528,
+            "start_frame": 336055,
+            "end_frame": 350097,
+            "start_time": 5600.916666666667,
+            "end_time": 5834.95,
+            "duration": 234.03333333333333
+        },
+        {
+            "sequence_id": 529,
+            "start_frame": 350097,
+            "end_frame": 351593,
+            "start_time": 5834.95,
+            "end_time": 5859.883333333333,
+            "duration": 24.933333333333334
+        },
+        {
+            "sequence_id": 530,
+            "start_frame": 351593,
+            "end_frame": 352384,
+            "start_time": 5859.883333333333,
+            "end_time": 5873.066666666667,
+            "duration": 13.183333333333334
+        },
+        {
+            "sequence_id": 531,
+            "start_frame": 352384,
+            "end_frame": 354614,
+            "start_time": 5873.066666666667,
+            "end_time": 5910.233333333334,
+            "duration": 37.166666666666664
+        },
+        {
+            "sequence_id": 532,
+            "start_frame": 354614,
+            "end_frame": 354689,
+            "start_time": 5910.233333333334,
+            "end_time": 5911.483333333334,
+            "duration": 1.25
+        },
+        {
+            "sequence_id": 533,
+            "start_frame": 354689,
+            "end_frame": 355373,
+            "start_time": 5911.483333333334,
+            "end_time": 5922.883333333333,
+            "duration": 11.4
+        },
+        {
+            "sequence_id": 534,
+            "start_frame": 355373,
+            "end_frame": 355863,
+            "start_time": 5922.883333333333,
+            "end_time": 5931.05,
+            "duration": 8.166666666666666
+        },
+        {
+            "sequence_id": 535,
+            "start_frame": 355863,
+            "end_frame": 356134,
+            "start_time": 5931.05,
+            "end_time": 5935.566666666667,
+            "duration": 4.516666666666667
+        },
+        {
+            "sequence_id": 536,
+            "start_frame": 356134,
+            "end_frame": 356345,
+            "start_time": 5935.566666666667,
+            "end_time": 5939.083333333333,
+            "duration": 3.5166666666666666
+        },
+        {
+            "sequence_id": 537,
+            "start_frame": 356345,
+            "end_frame": 356638,
+            "start_time": 5939.083333333333,
+            "end_time": 5943.966666666666,
+            "duration": 4.883333333333334
+        },
+        {
+            "sequence_id": 538,
+            "start_frame": 356638,
+            "end_frame": 357084,
+            "start_time": 5943.966666666666,
+            "end_time": 5951.4,
+            "duration": 7.433333333333334
+        },
+        {
+            "sequence_id": 539,
+            "start_frame": 357084,
+            "end_frame": 357776,
+            "start_time": 5951.4,
+            "end_time": 5962.933333333333,
+            "duration": 11.533333333333333
+        },
+        {
+            "sequence_id": 540,
+            "start_frame": 357776,
+            "end_frame": 358561,
+            "start_time": 5962.933333333333,
+            "end_time": 5976.016666666666,
+            "duration": 13.083333333333334
+        },
+        {
+            "sequence_id": 541,
+            "start_frame": 358561,
+            "end_frame": 359021,
+            "start_time": 5976.016666666666,
+            "end_time": 5983.683333333333,
+            "duration": 7.666666666666667
+        },
+        {
+            "sequence_id": 542,
+            "start_frame": 359021,
+            "end_frame": 359122,
+            "start_time": 5983.683333333333,
+            "end_time": 5985.366666666667,
+            "duration": 1.6833333333333333
+        },
+        {
+            "sequence_id": 543,
+            "start_frame": 359122,
+            "end_frame": 359260,
+            "start_time": 5985.366666666667,
+            "end_time": 5987.666666666667,
+            "duration": 2.3
+        },
+        {
+            "sequence_id": 544,
+            "start_frame": 359260,
+            "end_frame": 359343,
+            "start_time": 5987.666666666667,
+            "end_time": 5989.05,
+            "duration": 1.3833333333333333
+        },
+        {
+            "sequence_id": 545,
+            "start_frame": 359343,
+            "end_frame": 359706,
+            "start_time": 5989.05,
+            "end_time": 5995.1,
+            "duration": 6.05
+        },
+        {
+            "sequence_id": 546,
+            "start_frame": 359706,
+            "end_frame": 360016,
+            "start_time": 5995.1,
+            "end_time": 6000.266666666666,
+            "duration": 5.166666666666667
+        },
+        {
+            "sequence_id": 547,
+            "start_frame": 360016,
+            "end_frame": 360176,
+            "start_time": 6000.266666666666,
+            "end_time": 6002.933333333333,
+            "duration": 2.6666666666666665
+        },
+        {
+            "sequence_id": 548,
+            "start_frame": 360176,
+            "end_frame": 360657,
+            "start_time": 6002.933333333333,
+            "end_time": 6010.95,
+            "duration": 8.016666666666667
+        },
+        {
+            "sequence_id": 549,
+            "start_frame": 360657,
+            "end_frame": 362272,
+            "start_time": 6010.95,
+            "end_time": 6037.866666666667,
+            "duration": 26.916666666666668
+        },
+        {
+            "sequence_id": 550,
+            "start_frame": 362272,
+            "end_frame": 365383,
+            "start_time": 6037.866666666667,
+            "end_time": 6089.716666666666,
+            "duration": 51.85
+        },
+        {
+            "sequence_id": 551,
+            "start_frame": 365383,
+            "end_frame": 367301,
+            "start_time": 6089.716666666666,
+            "end_time": 6121.683333333333,
+            "duration": 31.966666666666665
+        },
+        {
+            "sequence_id": 552,
+            "start_frame": 367301,
+            "end_frame": 372881,
+            "start_time": 6121.683333333333,
+            "end_time": 6214.683333333333,
+            "duration": 93.0
+        },
+        {
+            "sequence_id": 553,
+            "start_frame": 372881,
+            "end_frame": 375915,
+            "start_time": 6214.683333333333,
+            "end_time": 6265.25,
+            "duration": 50.56666666666667
+        },
+        {
+            "sequence_id": 554,
+            "start_frame": 375915,
+            "end_frame": 375954,
+            "start_time": 6265.25,
+            "end_time": 6265.9,
+            "duration": 0.65
+        },
+        {
+            "sequence_id": 555,
+            "start_frame": 375954,
+            "end_frame": 376258,
+            "start_time": 6265.9,
+            "end_time": 6270.966666666666,
+            "duration": 5.066666666666666
+        },
+        {
+            "sequence_id": 556,
+            "start_frame": 376258,
+            "end_frame": 376459,
+            "start_time": 6270.966666666666,
+            "end_time": 6274.316666666667,
+            "duration": 3.35
+        },
+        {
+            "sequence_id": 557,
+            "start_frame": 376459,
+            "end_frame": 376815,
+            "start_time": 6274.316666666667,
+            "end_time": 6280.25,
+            "duration": 5.933333333333334
+        },
+        {
+            "sequence_id": 558,
+            "start_frame": 376815,
+            "end_frame": 376865,
+            "start_time": 6280.25,
+            "end_time": 6281.083333333333,
+            "duration": 0.8333333333333334
+        },
+        {
+            "sequence_id": 559,
+            "start_frame": 376865,
+            "end_frame": 376913,
+            "start_time": 6281.083333333333,
+            "end_time": 6281.883333333333,
+            "duration": 0.8
+        },
+        {
+            "sequence_id": 560,
+            "start_frame": 376913,
+            "end_frame": 376942,
+            "start_time": 6281.883333333333,
+            "end_time": 6282.366666666667,
+            "duration": 0.48333333333333334
+        },
+        {
+            "sequence_id": 561,
+            "start_frame": 376942,
+            "end_frame": 377304,
+            "start_time": 6282.366666666667,
+            "end_time": 6288.4,
+            "duration": 6.033333333333333
+        },
+        {
+            "sequence_id": 562,
+            "start_frame": 377304,
+            "end_frame": 377401,
+            "start_time": 6288.4,
+            "end_time": 6290.016666666666,
+            "duration": 1.6166666666666667
+        },
+        {
+            "sequence_id": 563,
+            "start_frame": 377401,
+            "end_frame": 377440,
+            "start_time": 6290.016666666666,
+            "end_time": 6290.666666666667,
+            "duration": 0.65
+        },
+        {
+            "sequence_id": 564,
+            "start_frame": 377440,
+            "end_frame": 378977,
+            "start_time": 6290.666666666667,
+            "end_time": 6316.283333333334,
+            "duration": 25.616666666666667
+        },
+        {
+            "sequence_id": 565,
+            "start_frame": 378977,
+            "end_frame": 392961,
+            "start_time": 6316.283333333334,
+            "end_time": 6549.35,
+            "duration": 233.06666666666666
+        },
+        {
+            "sequence_id": 566,
+            "start_frame": 392961,
+            "end_frame": 393350,
+            "start_time": 6549.35,
+            "end_time": 6555.833333333333,
+            "duration": 6.483333333333333
+        },
+        {
+            "sequence_id": 567,
+            "start_frame": 393350,
+            "end_frame": 393936,
+            "start_time": 6555.833333333333,
+            "end_time": 6565.6,
+            "duration": 9.766666666666667
+        },
+        {
+            "sequence_id": 568,
+            "start_frame": 393936,
+            "end_frame": 394074,
+            "start_time": 6565.6,
+            "end_time": 6567.9,
+            "duration": 2.3
+        },
+        {
+            "sequence_id": 569,
+            "start_frame": 394074,
+            "end_frame": 394207,
+            "start_time": 6567.9,
+            "end_time": 6570.116666666667,
+            "duration": 2.216666666666667
+        },
+        {
+            "sequence_id": 570,
+            "start_frame": 394207,
+            "end_frame": 394686,
+            "start_time": 6570.116666666667,
+            "end_time": 6578.1,
+            "duration": 7.983333333333333
+        },
+        {
+            "sequence_id": 571,
+            "start_frame": 394686,
+            "end_frame": 395425,
+            "start_time": 6578.1,
+            "end_time": 6590.416666666667,
+            "duration": 12.316666666666666
+        },
+        {
+            "sequence_id": 572,
+            "start_frame": 395425,
+            "end_frame": 395796,
+            "start_time": 6590.416666666667,
+            "end_time": 6596.6,
+            "duration": 6.183333333333334
+        },
+        {
+            "sequence_id": 573,
+            "start_frame": 395796,
+            "end_frame": 395924,
+            "start_time": 6596.6,
+            "end_time": 6598.733333333334,
+            "duration": 2.1333333333333333
+        },
+        {
+            "sequence_id": 574,
+            "start_frame": 395924,
+            "end_frame": 396125,
+            "start_time": 6598.733333333334,
+            "end_time": 6602.083333333333,
+            "duration": 3.35
+        },
+        {
+            "sequence_id": 575,
+            "start_frame": 396125,
+            "end_frame": 396161,
+            "start_time": 6602.083333333333,
+            "end_time": 6602.683333333333,
+            "duration": 0.6
+        },
+        {
+            "sequence_id": 576,
+            "start_frame": 396161,
+            "end_frame": 396247,
+            "start_time": 6602.683333333333,
+            "end_time": 6604.116666666667,
+            "duration": 1.4333333333333333
+        },
+        {
+            "sequence_id": 577,
+            "start_frame": 396247,
+            "end_frame": 396736,
+            "start_time": 6604.116666666667,
+            "end_time": 6612.266666666666,
+            "duration": 8.15
+        },
+        {
+            "sequence_id": 578,
+            "start_frame": 396736,
+            "end_frame": 396748,
+            "start_time": 6612.266666666666,
+            "end_time": 6612.466666666666,
+            "duration": 0.2
+        },
+        {
+            "sequence_id": 579,
+            "start_frame": 396748,
+            "end_frame": 396889,
+            "start_time": 6612.466666666666,
+            "end_time": 6614.816666666667,
+            "duration": 2.35
+        },
+        {
+            "sequence_id": 580,
+            "start_frame": 396889,
+            "end_frame": 397024,
+            "start_time": 6614.816666666667,
+            "end_time": 6617.066666666667,
+            "duration": 2.25
+        },
+        {
+            "sequence_id": 581,
+            "start_frame": 397024,
+            "end_frame": 397082,
+            "start_time": 6617.066666666667,
+            "end_time": 6618.033333333334,
+            "duration": 0.9666666666666667
+        },
+        {
+            "sequence_id": 582,
+            "start_frame": 397082,
+            "end_frame": 397424,
+            "start_time": 6618.033333333334,
+            "end_time": 6623.733333333334,
+            "duration": 5.7
+        },
+        {
+            "sequence_id": 583,
+            "start_frame": 397424,
+            "end_frame": 402829,
+            "start_time": 6623.733333333334,
+            "end_time": 6713.816666666667,
+            "duration": 90.08333333333333
+        },
+        {
+            "sequence_id": 584,
+            "start_frame": 402829,
+            "end_frame": 415542,
+            "start_time": 6713.816666666667,
+            "end_time": 6925.7,
+            "duration": 211.88333333333333
+        },
+        {
+            "sequence_id": 585,
+            "start_frame": 415542,
+            "end_frame": 415572,
+            "start_time": 6925.7,
+            "end_time": 6926.2,
+            "duration": 0.5
+        },
+        {
+            "sequence_id": 586,
+            "start_frame": 415572,
+            "end_frame": 415620,
+            "start_time": 6926.2,
+            "end_time": 6927.0,
+            "duration": 0.8
+        },
+        {
+            "sequence_id": 587,
+            "start_frame": 415620,
+            "end_frame": 418970,
+            "start_time": 6927.0,
+            "end_time": 6982.833333333333,
+            "duration": 55.833333333333336
+        },
+        {
+            "sequence_id": 588,
+            "start_frame": 418970,
+            "end_frame": 421054,
+            "start_time": 6982.833333333333,
+            "end_time": 7017.566666666667,
+            "duration": 34.733333333333334
+        },
+        {
+            "sequence_id": 589,
+            "start_frame": 421054,
+            "end_frame": 421274,
+            "start_time": 7017.566666666667,
+            "end_time": 7021.233333333334,
+            "duration": 3.6666666666666665
+        },
+        {
+            "sequence_id": 590,
+            "start_frame": 421274,
+            "end_frame": 421655,
+            "start_time": 7021.233333333334,
+            "end_time": 7027.583333333333,
+            "duration": 6.35
+        },
+        {
+            "sequence_id": 591,
+            "start_frame": 421655,
+            "end_frame": 421693,
+            "start_time": 7027.583333333333,
+            "end_time": 7028.216666666666,
+            "duration": 0.6333333333333333
+        },
+        {
+            "sequence_id": 592,
+            "start_frame": 421693,
+            "end_frame": 422091,
+            "start_time": 7028.216666666666,
+            "end_time": 7034.85,
+            "duration": 6.633333333333334
+        },
+        {
+            "sequence_id": 593,
+            "start_frame": 422091,
+            "end_frame": 422179,
+            "start_time": 7034.85,
+            "end_time": 7036.316666666667,
+            "duration": 1.4666666666666666
+        },
+        {
+            "sequence_id": 594,
+            "start_frame": 422179,
+            "end_frame": 422386,
+            "start_time": 7036.316666666667,
+            "end_time": 7039.766666666666,
+            "duration": 3.45
+        },
+        {
+            "sequence_id": 595,
+            "start_frame": 422386,
+            "end_frame": 422753,
+            "start_time": 7039.766666666666,
+            "end_time": 7045.883333333333,
+            "duration": 6.116666666666666
+        },
+        {
+            "sequence_id": 596,
+            "start_frame": 422753,
+            "end_frame": 423156,
+            "start_time": 7045.883333333333,
+            "end_time": 7052.6,
+            "duration": 6.716666666666667
+        },
+        {
+            "sequence_id": 597,
+            "start_frame": 423156,
+            "end_frame": 424537,
+            "start_time": 7052.6,
+            "end_time": 7075.616666666667,
+            "duration": 23.016666666666666
+        },
+        {
+            "sequence_id": 598,
+            "start_frame": 424537,
+            "end_frame": 424568,
+            "start_time": 7075.616666666667,
+            "end_time": 7076.133333333333,
+            "duration": 0.5166666666666667
+        },
+        {
+            "sequence_id": 599,
+            "start_frame": 424568,
+            "end_frame": 424609,
+            "start_time": 7076.133333333333,
+            "end_time": 7076.816666666667,
+            "duration": 0.6833333333333333
+        },
+        {
+            "sequence_id": 600,
+            "start_frame": 424609,
+            "end_frame": 424656,
+            "start_time": 7076.816666666667,
+            "end_time": 7077.6,
+            "duration": 0.7833333333333333
+        },
+        {
+            "sequence_id": 601,
+            "start_frame": 424656,
+            "end_frame": 424830,
+            "start_time": 7077.6,
+            "end_time": 7080.5,
+            "duration": 2.9
+        },
+        {
+            "sequence_id": 602,
+            "start_frame": 424830,
+            "end_frame": 424862,
+            "start_time": 7080.5,
+            "end_time": 7081.033333333334,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 603,
+            "start_frame": 424862,
+            "end_frame": 424957,
+            "start_time": 7081.033333333334,
+            "end_time": 7082.616666666667,
+            "duration": 1.5833333333333333
+        },
+        {
+            "sequence_id": 604,
+            "start_frame": 424957,
+            "end_frame": 425004,
+            "start_time": 7082.616666666667,
+            "end_time": 7083.4,
+            "duration": 0.7833333333333333
+        },
+        {
+            "sequence_id": 605,
+            "start_frame": 425004,
+            "end_frame": 425028,
+            "start_time": 7083.4,
+            "end_time": 7083.8,
+            "duration": 0.4
+        },
+        {
+            "sequence_id": 606,
+            "start_frame": 425028,
+            "end_frame": 425303,
+            "start_time": 7083.8,
+            "end_time": 7088.383333333333,
+            "duration": 4.583333333333333
+        },
+        {
+            "sequence_id": 607,
+            "start_frame": 425303,
+            "end_frame": 425449,
+            "start_time": 7088.383333333333,
+            "end_time": 7090.816666666667,
+            "duration": 2.433333333333333
+        },
+        {
+            "sequence_id": 608,
+            "start_frame": 425449,
+            "end_frame": 425611,
+            "start_time": 7090.816666666667,
+            "end_time": 7093.516666666666,
+            "duration": 2.7
+        },
+        {
+            "sequence_id": 609,
+            "start_frame": 425611,
+            "end_frame": 426506,
+            "start_time": 7093.516666666666,
+            "end_time": 7108.433333333333,
+            "duration": 14.916666666666666
+        },
+        {
+            "sequence_id": 610,
+            "start_frame": 426506,
+            "end_frame": 426986,
+            "start_time": 7108.433333333333,
+            "end_time": 7116.433333333333,
+            "duration": 8.0
+        },
+        {
+            "sequence_id": 611,
+            "start_frame": 426986,
+            "end_frame": 429374,
+            "start_time": 7116.433333333333,
+            "end_time": 7156.233333333334,
+            "duration": 39.8
+        },
+        {
+            "sequence_id": 612,
+            "start_frame": 429374,
+            "end_frame": 429530,
+            "start_time": 7156.233333333334,
+            "end_time": 7158.833333333333,
+            "duration": 2.6
+        },
+        {
+            "sequence_id": 613,
+            "start_frame": 429530,
+            "end_frame": 437002,
+            "start_time": 7158.833333333333,
+            "end_time": 7283.366666666667,
+            "duration": 124.53333333333333
+        },
+        {
+            "sequence_id": 614,
+            "start_frame": 437002,
+            "end_frame": 445355,
+            "start_time": 7283.366666666667,
+            "end_time": 7422.583333333333,
+            "duration": 139.21666666666667
+        },
+        {
+            "sequence_id": 615,
+            "start_frame": 445355,
+            "end_frame": 446365,
+            "start_time": 7422.583333333333,
+            "end_time": 7439.416666666667,
+            "duration": 16.833333333333332
+        },
+        {
+            "sequence_id": 616,
+            "start_frame": 446365,
+            "end_frame": 446615,
+            "start_time": 7439.416666666667,
+            "end_time": 7443.583333333333,
+            "duration": 4.166666666666667
+        },
+        {
+            "sequence_id": 617,
+            "start_frame": 446615,
+            "end_frame": 447566,
+            "start_time": 7443.583333333333,
+            "end_time": 7459.433333333333,
+            "duration": 15.85
+        },
+        {
+            "sequence_id": 618,
+            "start_frame": 447566,
+            "end_frame": 449007,
+            "start_time": 7459.433333333333,
+            "end_time": 7483.45,
+            "duration": 24.016666666666666
+        },
+        {
+            "sequence_id": 619,
+            "start_frame": 449007,
+            "end_frame": 449645,
+            "start_time": 7483.45,
+            "end_time": 7494.083333333333,
+            "duration": 10.633333333333333
+        },
+        {
+            "sequence_id": 620,
+            "start_frame": 449645,
+            "end_frame": 456105,
+            "start_time": 7494.083333333333,
+            "end_time": 7601.75,
+            "duration": 107.66666666666667
+        },
+        {
+            "sequence_id": 621,
+            "start_frame": 456105,
+            "end_frame": 471373,
+            "start_time": 7601.75,
+            "end_time": 7856.216666666666,
+            "duration": 254.46666666666667
+        },
+        {
+            "sequence_id": 622,
+            "start_frame": 471373,
+            "end_frame": 472433,
+            "start_time": 7856.216666666666,
+            "end_time": 7873.883333333333,
+            "duration": 17.666666666666668
+        },
+        {
+            "sequence_id": 623,
+            "start_frame": 472433,
+            "end_frame": 472588,
+            "start_time": 7873.883333333333,
+            "end_time": 7876.466666666666,
+            "duration": 2.5833333333333335
+        },
+        {
+            "sequence_id": 624,
+            "start_frame": 472588,
+            "end_frame": 473067,
+            "start_time": 7876.466666666666,
+            "end_time": 7884.45,
+            "duration": 7.983333333333333
+        },
+        {
+            "sequence_id": 625,
+            "start_frame": 473067,
+            "end_frame": 473680,
+            "start_time": 7884.45,
+            "end_time": 7894.666666666667,
+            "duration": 10.216666666666667
+        },
+        {
+            "sequence_id": 626,
+            "start_frame": 473680,
+            "end_frame": 474557,
+            "start_time": 7894.666666666667,
+            "end_time": 7909.283333333334,
+            "duration": 14.616666666666667
+        },
+        {
+            "sequence_id": 627,
+            "start_frame": 474557,
+            "end_frame": 474826,
+            "start_time": 7909.283333333334,
+            "end_time": 7913.766666666666,
+            "duration": 4.483333333333333
+        },
+        {
+            "sequence_id": 628,
+            "start_frame": 474826,
+            "end_frame": 474925,
+            "start_time": 7913.766666666666,
+            "end_time": 7915.416666666667,
+            "duration": 1.65
+        },
+        {
+            "sequence_id": 629,
+            "start_frame": 474925,
+            "end_frame": 474993,
+            "start_time": 7915.416666666667,
+            "end_time": 7916.55,
+            "duration": 1.1333333333333333
+        },
+        {
+            "sequence_id": 630,
+            "start_frame": 474993,
+            "end_frame": 475162,
+            "start_time": 7916.55,
+            "end_time": 7919.366666666667,
+            "duration": 2.816666666666667
+        },
+        {
+            "sequence_id": 631,
+            "start_frame": 475162,
+            "end_frame": 475250,
+            "start_time": 7919.366666666667,
+            "end_time": 7920.833333333333,
+            "duration": 1.4666666666666666
+        },
+        {
+            "sequence_id": 632,
+            "start_frame": 475250,
+            "end_frame": 475306,
+            "start_time": 7920.833333333333,
+            "end_time": 7921.766666666666,
+            "duration": 0.9333333333333333
+        },
+        {
+            "sequence_id": 633,
+            "start_frame": 475306,
+            "end_frame": 475357,
+            "start_time": 7921.766666666666,
+            "end_time": 7922.616666666667,
+            "duration": 0.85
+        },
+        {
+            "sequence_id": 634,
+            "start_frame": 475357,
+            "end_frame": 475412,
+            "start_time": 7922.616666666667,
+            "end_time": 7923.533333333334,
+            "duration": 0.9166666666666666
+        },
+        {
+            "sequence_id": 635,
+            "start_frame": 475412,
+            "end_frame": 476636,
+            "start_time": 7923.533333333334,
+            "end_time": 7943.933333333333,
+            "duration": 20.4
+        },
+        {
+            "sequence_id": 636,
+            "start_frame": 476636,
+            "end_frame": 477496,
+            "start_time": 7943.933333333333,
+            "end_time": 7958.266666666666,
+            "duration": 14.333333333333334
+        },
+        {
+            "sequence_id": 637,
+            "start_frame": 477496,
+            "end_frame": 477701,
+            "start_time": 7958.266666666666,
+            "end_time": 7961.683333333333,
+            "duration": 3.4166666666666665
+        },
+        {
+            "sequence_id": 638,
+            "start_frame": 477701,
+            "end_frame": 477805,
+            "start_time": 7961.683333333333,
+            "end_time": 7963.416666666667,
+            "duration": 1.7333333333333334
+        },
+        {
+            "sequence_id": 639,
+            "start_frame": 477805,
+            "end_frame": 478156,
+            "start_time": 7963.416666666667,
+            "end_time": 7969.266666666666,
+            "duration": 5.85
+        },
+        {
+            "sequence_id": 640,
+            "start_frame": 478156,
+            "end_frame": 478188,
+            "start_time": 7969.266666666666,
+            "end_time": 7969.8,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 641,
+            "start_frame": 478188,
+            "end_frame": 478272,
+            "start_time": 7969.8,
+            "end_time": 7971.2,
+            "duration": 1.4
+        },
+        {
+            "sequence_id": 642,
+            "start_frame": 478272,
+            "end_frame": 478353,
+            "start_time": 7971.2,
+            "end_time": 7972.55,
+            "duration": 1.35
+        },
+        {
+            "sequence_id": 643,
+            "start_frame": 478353,
+            "end_frame": 478472,
+            "start_time": 7972.55,
+            "end_time": 7974.533333333334,
+            "duration": 1.9833333333333334
+        },
+        {
+            "sequence_id": 644,
+            "start_frame": 478472,
+            "end_frame": 478699,
+            "start_time": 7974.533333333334,
+            "end_time": 7978.316666666667,
+            "duration": 3.783333333333333
+        },
+        {
+            "sequence_id": 645,
+            "start_frame": 478699,
+            "end_frame": 478799,
+            "start_time": 7978.316666666667,
+            "end_time": 7979.983333333334,
+            "duration": 1.6666666666666667
+        },
+        {
+            "sequence_id": 646,
+            "start_frame": 478799,
+            "end_frame": 478821,
+            "start_time": 7979.983333333334,
+            "end_time": 7980.35,
+            "duration": 0.36666666666666664
+        },
+        {
+            "sequence_id": 647,
+            "start_frame": 478821,
+            "end_frame": 478910,
+            "start_time": 7980.35,
+            "end_time": 7981.833333333333,
+            "duration": 1.4833333333333334
+        },
+        {
+            "sequence_id": 648,
+            "start_frame": 478910,
+            "end_frame": 478939,
+            "start_time": 7981.833333333333,
+            "end_time": 7982.316666666667,
+            "duration": 0.48333333333333334
+        },
+        {
+            "sequence_id": 649,
+            "start_frame": 478939,
+            "end_frame": 479052,
+            "start_time": 7982.316666666667,
+            "end_time": 7984.2,
+            "duration": 1.8833333333333333
+        },
+        {
+            "sequence_id": 650,
+            "start_frame": 479052,
+            "end_frame": 479152,
+            "start_time": 7984.2,
+            "end_time": 7985.866666666667,
+            "duration": 1.6666666666666667
+        },
+        {
+            "sequence_id": 651,
+            "start_frame": 479152,
+            "end_frame": 479405,
+            "start_time": 7985.866666666667,
+            "end_time": 7990.083333333333,
+            "duration": 4.216666666666667
+        },
+        {
+            "sequence_id": 652,
+            "start_frame": 479405,
+            "end_frame": 479503,
+            "start_time": 7990.083333333333,
+            "end_time": 7991.716666666666,
+            "duration": 1.6333333333333333
+        },
+        {
+            "sequence_id": 653,
+            "start_frame": 479503,
+            "end_frame": 479598,
+            "start_time": 7991.716666666666,
+            "end_time": 7993.3,
+            "duration": 1.5833333333333333
+        },
+        {
+            "sequence_id": 654,
+            "start_frame": 479598,
+            "end_frame": 479829,
+            "start_time": 7993.3,
+            "end_time": 7997.15,
+            "duration": 3.85
+        },
+        {
+            "sequence_id": 655,
+            "start_frame": 479829,
+            "end_frame": 479963,
+            "start_time": 7997.15,
+            "end_time": 7999.383333333333,
+            "duration": 2.2333333333333334
+        },
+        {
+            "sequence_id": 656,
+            "start_frame": 479963,
+            "end_frame": 480081,
+            "start_time": 7999.383333333333,
+            "end_time": 8001.35,
+            "duration": 1.9666666666666666
+        },
+        {
+            "sequence_id": 657,
+            "start_frame": 480081,
+            "end_frame": 480207,
+            "start_time": 8001.35,
+            "end_time": 8003.45,
+            "duration": 2.1
+        },
+        {
+            "sequence_id": 658,
+            "start_frame": 480207,
+            "end_frame": 480388,
+            "start_time": 8003.45,
+            "end_time": 8006.466666666666,
+            "duration": 3.0166666666666666
+        },
+        {
+            "sequence_id": 659,
+            "start_frame": 480388,
+            "end_frame": 480440,
+            "start_time": 8006.466666666666,
+            "end_time": 8007.333333333333,
+            "duration": 0.8666666666666667
+        },
+        {
+            "sequence_id": 660,
+            "start_frame": 480440,
+            "end_frame": 480491,
+            "start_time": 8007.333333333333,
+            "end_time": 8008.183333333333,
+            "duration": 0.85
+        },
+        {
+            "sequence_id": 661,
+            "start_frame": 480491,
+            "end_frame": 480620,
+            "start_time": 8008.183333333333,
+            "end_time": 8010.333333333333,
+            "duration": 2.15
+        },
+        {
+            "sequence_id": 662,
+            "start_frame": 480620,
+            "end_frame": 480773,
+            "start_time": 8010.333333333333,
+            "end_time": 8012.883333333333,
+            "duration": 2.55
+        },
+        {
+            "sequence_id": 663,
+            "start_frame": 480773,
+            "end_frame": 480980,
+            "start_time": 8012.883333333333,
+            "end_time": 8016.333333333333,
+            "duration": 3.45
+        },
+        {
+            "sequence_id": 664,
+            "start_frame": 480980,
+            "end_frame": 481031,
+            "start_time": 8016.333333333333,
+            "end_time": 8017.183333333333,
+            "duration": 0.85
+        },
+        {
+            "sequence_id": 665,
+            "start_frame": 481031,
+            "end_frame": 481192,
+            "start_time": 8017.183333333333,
+            "end_time": 8019.866666666667,
+            "duration": 2.683333333333333
+        },
+        {
+            "sequence_id": 666,
+            "start_frame": 481192,
+            "end_frame": 481409,
+            "start_time": 8019.866666666667,
+            "end_time": 8023.483333333334,
+            "duration": 3.6166666666666667
+        },
+        {
+            "sequence_id": 667,
+            "start_frame": 481409,
+            "end_frame": 481581,
+            "start_time": 8023.483333333334,
+            "end_time": 8026.35,
+            "duration": 2.8666666666666667
+        },
+        {
+            "sequence_id": 668,
+            "start_frame": 481581,
+            "end_frame": 481638,
+            "start_time": 8026.35,
+            "end_time": 8027.3,
+            "duration": 0.95
+        },
+        {
+            "sequence_id": 669,
+            "start_frame": 481638,
+            "end_frame": 481940,
+            "start_time": 8027.3,
+            "end_time": 8032.333333333333,
+            "duration": 5.033333333333333
+        },
+        {
+            "sequence_id": 670,
+            "start_frame": 481940,
+            "end_frame": 482580,
+            "start_time": 8032.333333333333,
+            "end_time": 8043.0,
+            "duration": 10.666666666666666
+        },
+        {
+            "sequence_id": 671,
+            "start_frame": 482580,
+            "end_frame": 484055,
+            "start_time": 8043.0,
+            "end_time": 8067.583333333333,
+            "duration": 24.583333333333332
+        },
+        {
+            "sequence_id": 672,
+            "start_frame": 484055,
+            "end_frame": 484363,
+            "start_time": 8067.583333333333,
+            "end_time": 8072.716666666666,
+            "duration": 5.133333333333334
+        },
+        {
+            "sequence_id": 673,
+            "start_frame": 484363,
+            "end_frame": 484572,
+            "start_time": 8072.716666666666,
+            "end_time": 8076.2,
+            "duration": 3.4833333333333334
+        },
+        {
+            "sequence_id": 674,
+            "start_frame": 484572,
+            "end_frame": 484600,
+            "start_time": 8076.2,
+            "end_time": 8076.666666666667,
+            "duration": 0.4666666666666667
+        },
+        {
+            "sequence_id": 675,
+            "start_frame": 484600,
+            "end_frame": 484714,
+            "start_time": 8076.666666666667,
+            "end_time": 8078.566666666667,
+            "duration": 1.9
+        },
+        {
+            "sequence_id": 676,
+            "start_frame": 484714,
+            "end_frame": 484810,
+            "start_time": 8078.566666666667,
+            "end_time": 8080.166666666667,
+            "duration": 1.6
+        },
+        {
+            "sequence_id": 677,
+            "start_frame": 484810,
+            "end_frame": 485338,
+            "start_time": 8080.166666666667,
+            "end_time": 8088.966666666666,
+            "duration": 8.8
+        },
+        {
+            "sequence_id": 678,
+            "start_frame": 485338,
+            "end_frame": 485493,
+            "start_time": 8088.966666666666,
+            "end_time": 8091.55,
+            "duration": 2.5833333333333335
+        },
+        {
+            "sequence_id": 679,
+            "start_frame": 485493,
+            "end_frame": 485591,
+            "start_time": 8091.55,
+            "end_time": 8093.183333333333,
+            "duration": 1.6333333333333333
+        },
+        {
+            "sequence_id": 680,
+            "start_frame": 485591,
+            "end_frame": 485848,
+            "start_time": 8093.183333333333,
+            "end_time": 8097.466666666666,
+            "duration": 4.283333333333333
+        },
+        {
+            "sequence_id": 681,
+            "start_frame": 485848,
+            "end_frame": 486067,
+            "start_time": 8097.466666666666,
+            "end_time": 8101.116666666667,
+            "duration": 3.65
+        },
+        {
+            "sequence_id": 682,
+            "start_frame": 486067,
+            "end_frame": 486693,
+            "start_time": 8101.116666666667,
+            "end_time": 8111.55,
+            "duration": 10.433333333333334
+        },
+        {
+            "sequence_id": 683,
+            "start_frame": 486693,
+            "end_frame": 487267,
+            "start_time": 8111.55,
+            "end_time": 8121.116666666667,
+            "duration": 9.566666666666666
+        },
+        {
+            "sequence_id": 684,
+            "start_frame": 487267,
+            "end_frame": 487301,
+            "start_time": 8121.116666666667,
+            "end_time": 8121.683333333333,
+            "duration": 0.5666666666666667
+        },
+        {
+            "sequence_id": 685,
+            "start_frame": 487301,
+            "end_frame": 487401,
+            "start_time": 8121.683333333333,
+            "end_time": 8123.35,
+            "duration": 1.6666666666666667
+        },
+        {
+            "sequence_id": 686,
+            "start_frame": 487401,
+            "end_frame": 488131,
+            "start_time": 8123.35,
+            "end_time": 8135.516666666666,
+            "duration": 12.166666666666666
+        },
+        {
+            "sequence_id": 687,
+            "start_frame": 488131,
+            "end_frame": 488673,
+            "start_time": 8135.516666666666,
+            "end_time": 8144.55,
+            "duration": 9.033333333333333
+        },
+        {
+            "sequence_id": 688,
+            "start_frame": 488673,
+            "end_frame": 488774,
+            "start_time": 8144.55,
+            "end_time": 8146.233333333334,
+            "duration": 1.6833333333333333
+        },
+        {
+            "sequence_id": 689,
+            "start_frame": 488774,
+            "end_frame": 488844,
+            "start_time": 8146.233333333334,
+            "end_time": 8147.4,
+            "duration": 1.1666666666666667
+        },
+        {
+            "sequence_id": 690,
+            "start_frame": 488844,
+            "end_frame": 489096,
+            "start_time": 8147.4,
+            "end_time": 8151.6,
+            "duration": 4.2
+        },
+        {
+            "sequence_id": 691,
+            "start_frame": 489096,
+            "end_frame": 489274,
+            "start_time": 8151.6,
+            "end_time": 8154.566666666667,
+            "duration": 2.966666666666667
+        },
+        {
+            "sequence_id": 692,
+            "start_frame": 489274,
+            "end_frame": 489300,
+            "start_time": 8154.566666666667,
+            "end_time": 8155.0,
+            "duration": 0.43333333333333335
+        },
+        {
+            "sequence_id": 693,
+            "start_frame": 489300,
+            "end_frame": 489324,
+            "start_time": 8155.0,
+            "end_time": 8155.4,
+            "duration": 0.4
+        },
+        {
+            "sequence_id": 694,
+            "start_frame": 489324,
+            "end_frame": 489454,
+            "start_time": 8155.4,
+            "end_time": 8157.566666666667,
+            "duration": 2.1666666666666665
+        },
+        {
+            "sequence_id": 695,
+            "start_frame": 489454,
+            "end_frame": 489603,
+            "start_time": 8157.566666666667,
+            "end_time": 8160.05,
+            "duration": 2.4833333333333334
+        },
+        {
+            "sequence_id": 696,
+            "start_frame": 489603,
+            "end_frame": 489890,
+            "start_time": 8160.05,
+            "end_time": 8164.833333333333,
+            "duration": 4.783333333333333
+        },
+        {
+            "sequence_id": 697,
+            "start_frame": 489890,
+            "end_frame": 489957,
+            "start_time": 8164.833333333333,
+            "end_time": 8165.95,
+            "duration": 1.1166666666666667
+        },
+        {
+            "sequence_id": 698,
+            "start_frame": 489957,
+            "end_frame": 491430,
+            "start_time": 8165.95,
+            "end_time": 8190.5,
+            "duration": 24.55
+        },
+        {
+            "sequence_id": 699,
+            "start_frame": 491430,
+            "end_frame": 491769,
+            "start_time": 8190.5,
+            "end_time": 8196.15,
+            "duration": 5.65
+        },
+        {
+            "sequence_id": 700,
+            "start_frame": 491769,
+            "end_frame": 491780,
+            "start_time": 8196.15,
+            "end_time": 8196.333333333334,
+            "duration": 0.18333333333333332
+        },
+        {
+            "sequence_id": 701,
+            "start_frame": 491780,
+            "end_frame": 491799,
+            "start_time": 8196.333333333334,
+            "end_time": 8196.65,
+            "duration": 0.31666666666666665
+        },
+        {
+            "sequence_id": 702,
+            "start_frame": 491799,
+            "end_frame": 491816,
+            "start_time": 8196.65,
+            "end_time": 8196.933333333332,
+            "duration": 0.2833333333333333
+        },
+        {
+            "sequence_id": 703,
+            "start_frame": 491816,
+            "end_frame": 491920,
+            "start_time": 8196.933333333332,
+            "end_time": 8198.666666666666,
+            "duration": 1.7333333333333334
+        },
+        {
+            "sequence_id": 704,
+            "start_frame": 491920,
+            "end_frame": 492870,
+            "start_time": 8198.666666666666,
+            "end_time": 8214.5,
+            "duration": 15.833333333333334
+        },
+        {
+            "sequence_id": 705,
+            "start_frame": 492870,
+            "end_frame": 493278,
+            "start_time": 8214.5,
+            "end_time": 8221.3,
+            "duration": 6.8
+        },
+        {
+            "sequence_id": 706,
+            "start_frame": 493278,
+            "end_frame": 493507,
+            "start_time": 8221.3,
+            "end_time": 8225.116666666667,
+            "duration": 3.816666666666667
+        },
+        {
+            "sequence_id": 707,
+            "start_frame": 493507,
+            "end_frame": 496590,
+            "start_time": 8225.116666666667,
+            "end_time": 8276.5,
+            "duration": 51.38333333333333
+        },
+        {
+            "sequence_id": 708,
+            "start_frame": 496590,
+            "end_frame": 496931,
+            "start_time": 8276.5,
+            "end_time": 8282.183333333332,
+            "duration": 5.683333333333334
+        },
+        {
+            "sequence_id": 709,
+            "start_frame": 496931,
+            "end_frame": 496963,
+            "start_time": 8282.183333333332,
+            "end_time": 8282.716666666667,
+            "duration": 0.5333333333333333
+        },
+        {
+            "sequence_id": 710,
+            "start_frame": 496963,
+            "end_frame": 497542,
+            "start_time": 8282.716666666667,
+            "end_time": 8292.366666666667,
+            "duration": 9.65
+        },
+        {
+            "sequence_id": 711,
+            "start_frame": 497542,
+            "end_frame": 498318,
+            "start_time": 8292.366666666667,
+            "end_time": 8305.3,
+            "duration": 12.933333333333334
+        },
+        {
+            "sequence_id": 712,
+            "start_frame": 498318,
+            "end_frame": 499159,
+            "start_time": 8305.3,
+            "end_time": 8319.316666666668,
+            "duration": 14.016666666666667
+        },
+        {
+            "sequence_id": 713,
+            "start_frame": 499159,
+            "end_frame": 499527,
+            "start_time": 8319.316666666668,
+            "end_time": 8325.45,
+            "duration": 6.133333333333334
+        },
+        {
+            "sequence_id": 714,
+            "start_frame": 499527,
+            "end_frame": 500506,
+            "start_time": 8325.45,
+            "end_time": 8341.766666666666,
+            "duration": 16.316666666666666
+        },
+        {
+            "sequence_id": 715,
+            "start_frame": 500506,
+            "end_frame": 501514,
+            "start_time": 8341.766666666666,
+            "end_time": 8358.566666666668,
+            "duration": 16.8
+        },
+        {
+            "sequence_id": 716,
+            "start_frame": 501514,
+            "end_frame": 501688,
+            "start_time": 8358.566666666668,
+            "end_time": 8361.466666666667,
+            "duration": 2.9
+        },
+        {
+            "sequence_id": 717,
+            "start_frame": 501688,
+            "end_frame": 502799,
+            "start_time": 8361.466666666667,
+            "end_time": 8379.983333333334,
+            "duration": 18.516666666666666
+        },
+        {
+            "sequence_id": 718,
+            "start_frame": 502799,
+            "end_frame": 504007,
+            "start_time": 8379.983333333334,
+            "end_time": 8400.116666666667,
+            "duration": 20.133333333333333
+        },
+        {
+            "sequence_id": 719,
+            "start_frame": 504007,
+            "end_frame": 505548,
+            "start_time": 8400.116666666667,
+            "end_time": 8425.8,
+            "duration": 25.683333333333334
+        },
+        {
+            "sequence_id": 720,
+            "start_frame": 505548,
+            "end_frame": 505667,
+            "start_time": 8425.8,
+            "end_time": 8427.783333333333,
+            "duration": 1.9833333333333334
+        },
+        {
+            "sequence_id": 721,
+            "start_frame": 505667,
+            "end_frame": 505750,
+            "start_time": 8427.783333333333,
+            "end_time": 8429.166666666666,
+            "duration": 1.3833333333333333
+        },
+        {
+            "sequence_id": 722,
+            "start_frame": 505750,
+            "end_frame": 506879,
+            "start_time": 8429.166666666666,
+            "end_time": 8447.983333333334,
+            "duration": 18.816666666666666
+        },
+        {
+            "sequence_id": 723,
+            "start_frame": 506879,
+            "end_frame": 507126,
+            "start_time": 8447.983333333334,
+            "end_time": 8452.1,
+            "duration": 4.116666666666666
+        },
+        {
+            "sequence_id": 724,
+            "start_frame": 507126,
+            "end_frame": 507582,
+            "start_time": 8452.1,
+            "end_time": 8459.7,
+            "duration": 7.6
+        },
+        {
+            "sequence_id": 725,
+            "start_frame": 507582,
+            "end_frame": 516049,
+            "start_time": 8459.7,
+            "end_time": 8600.816666666668,
+            "duration": 141.11666666666667
+        },
+        {
+            "sequence_id": 726,
+            "start_frame": 516049,
+            "end_frame": 516488,
+            "start_time": 8600.816666666668,
+            "end_time": 8608.133333333333,
+            "duration": 7.316666666666666
+        },
+        {
+            "sequence_id": 727,
+            "start_frame": 516488,
+            "end_frame": 516749,
+            "start_time": 8608.133333333333,
+            "end_time": 8612.483333333334,
+            "duration": 4.35
+        },
+        {
+            "sequence_id": 728,
+            "start_frame": 516749,
+            "end_frame": 520221,
+            "start_time": 8612.483333333334,
+            "end_time": 8670.35,
+            "duration": 57.86666666666667
+        }
+    ]
+}
