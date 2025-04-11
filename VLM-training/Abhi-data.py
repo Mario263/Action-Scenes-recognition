@@ -45,25 +45,6 @@ def extract_frames_to_pil(video_path, start_frame, end_frame):
     ]
     return frames
 
-# def extratct_keyshots(directory):
-#     keyshots = []
-
-#     if not os.path.exists(directory):
-#         print(f"❌ Missing directory: {directory}")
-#         return []
-
-#     print(f"✅ Checking directory: {directory}")  # Debugging output
-
-#     for file in os.listdir(directory):
-#         if file.endswith(".jpg"):
-#             keyshots.append(os.path.join(directory, file))
-
-#     if not keyshots:
-#         print(f"⚠️ No images found in: {directory}")  # Debugging output
-#     else:
-#         print(f"✅ Found images in {directory}: {keyshots}")  # Debugging output
-
-#     return keyshots
 def extratct_keyshots(directory):
     keyshots = []
 
